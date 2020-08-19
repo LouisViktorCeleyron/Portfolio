@@ -1,6 +1,7 @@
 # Hey! 
 
-Nice to meet you! (actually I can't know you this is a .txt file but feel free to contact me if you want)
+Nice to meet you! 
+>(obviously I'm not "meeting you", this is a .txt file but feel free to contact me, I will be delighted to talk with you!)
 
 ##  I'm Louis Celeyron 
 I’m a **graduate game programmer** at Rubika, Valenciennes, France. I started making games on RPG maker when I was 9, at 12 I continued my tests and my research on **game design** with software like Multimedia Fusion or Construct. 
