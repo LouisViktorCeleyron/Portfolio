@@ -13,6 +13,8 @@ I love **learning** new material, in various fields, such as, of course, Game De
 
 I also like organizing events. I was on my school student council for 2 year and I spent more time organizing Game Jams than participating in them!
 
+*mettre les liens vers mes skills a la place des mots en gras*
+
 ## Here you can find :
 
 - My Resume/Cv
@@ -20,4 +22,11 @@ I also like organizing events. I was on my school student council for 2 year an
 - Documents abouts my projects
 - A list of the things I like if you really want to know every details 
 
-Enjoy 
+## Ways to contact me
+
+If you want, you can reach me via :
+
+Mail : [louis.celeyron@gmail.com](louis.celeyron@gmail.com)
+LinkedIn : [louis-celeyron](https://www.linkedin.com/in/louis-celeyron/)
+
+Enjoy :)
