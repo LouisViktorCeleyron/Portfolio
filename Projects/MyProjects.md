@@ -6,15 +6,13 @@ Here, you can find informations about my projects and what did I do on them!
 ### Tough Kookie
 > Tough Kookie is a **Beath Them'up** game made with **UE4** in **BP and C++** in **2019-2020**
 
-I mainly was the **head programmer** and the **tool designer** of this project, but I did other tasks too. 
-
+I mainly was the **head programmer** and the **tool designer** of this project, but I did other tasks too.  
 It was our **graduation project**, and we worked more than a year on it. So I had the time to do a lot of stuffs for this project!   
 
-[What I did on this groovy game.](nulpart) 
+[What I did on this groovy game.](nulpart)  
+[The trailer of the game](https://www.youtube.com/watch?v=OYH15Qfyvc4)  
+[A full playtrough of the game](https://www.youtube.com/watch?v=TI5NTqJ_x2w)  
 
-[The trailer of the game](https://www.youtube.com/watch?v=OYH15Qfyvc4)
-
-[A full playtrough of the game](https://www.youtube.com/watch?v=TI5NTqJ_x2w)
 
 ## Professional Projects
 ### Les Chroniques de Volarela
@@ -29,7 +27,7 @@ The last time I worked for them I was in charge of an intern. It was a pleasure 
 [WebSite of the game(still in french)](https://www.volarela.com/)  
 
 ### Detox
-> Detox is a **couch-gaming platformer**. It is one of the two games on which I worked while I was an **intern** at **La Belle Games** in **2019**. It is made with **Unity 3D**   
+> Detox is a **couch-gaming platformer** for **PC**. It is one of the two games on which I worked while I was an **intern** at **La Belle Games** in **2019**. It is made with **Unity 3D**   
 
 We started the game nearly from scratch on Unity 3D and I worked as the only programmer. I work a little more than a month on this game.  
 I programmed the base system of the game but my main task was to create a **Level Editor for unity but outside of Unity**.
@@ -37,8 +35,18 @@ I programmed the base system of the game but my main task was to create a **Leve
 [What I did on this project](nothing.com)
 
 ### The Wanderer: Frankenstein's Creature
->The Wanderer: Frankenstein's Creature is a **Narative Game**. It is the other game on which I work at my **intership** at **La Belle Game** in **2019**. It is made with **Unity 3D**
+>The Wanderer: Frankenstein's Creature is a **Narative Game**. I worked on the **PC** version of the game. It is the other game on which I work at my **intership** at **La Belle Game** in **2019**. It is made with **Unity 3D** and it is produced by **Arte**.
 
-I join the team of this game barely at the end of the project
+I join the team of this game barely at the end of the project.  
+My tasks on were principally  **debug** or creation of **debugging tools**.  
+I mostly worked with the animator and the **PlayMaker Plug-In** and created extentions for it.
 
-![Frankenstein WallPaper](https://monstervine.com/wp-content/uploads/2020/01/The-Wanderer_-Frankensteins-Creature.jpg)
+[What I did on this game]()
+[Trailer of the game](https://www.youtube.com/watch?v=82ilW4ViQQU)
+[Website of the game](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)
+[Steam Page of the game](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)
+
+## Other
+
+I hope it was interesting and you learn a little more about my behaviour in teams! 
+If you want you can learn more about my skills [Here!]() 
