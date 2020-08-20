@@ -31,6 +31,6 @@ With this project I learned how important it is to have a **well organized proje
 
 ## More About this Project
 
-[Website](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)   
-[Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)  
+[Website](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)    
+[Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)   
 [Steam Page of the game](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)  
