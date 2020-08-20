@@ -19,6 +19,7 @@ It was our **graduation project**, and we worked more than a year on it. So I ha
 ## Professional Projects
 ### Les Chroniques de Volarela
 > I worked as a freelance for **CrossQuest Studio** twice on this educative **point & click** made with **Unity-C#**. My Last Contract with them was on from **June to August 2020**.  
+
 I was hired as a **Tool Designer** by CrossQuest Studio.  
 My main task was to design a **dialogue editor** and Unity environement adapted to this project.  
 The last time I worked for them I was in charge of an intern. It was a pleasure to teach him all about tool design.  
@@ -28,7 +29,8 @@ The last time I worked for them I was in charge of an intern. It was a pleasure 
 [WebSite of the game(still in french)](https://www.volarela.com/)  
 
 ### Detox
-> Detox is a **couch-gaming platformer**. It is one of the two games on which I worked while I was an **intern** at **La Belle Games** in **2019**. It is made with **Unity 3D**  
+> Detox is a **couch-gaming platformer**. It is one of the two games on which I worked while I was an **intern** at **La Belle Games** in **2019**. It is made with **Unity 3D**   
+
 We started the game nearly from scratch on Unity 3D and I worked as the only programmer. I work a little more than a month on this game.  
 I programmed the base system of the game but my main task was to create a **Level Editor for unity but outside of Unity**.
 
