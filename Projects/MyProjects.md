@@ -42,9 +42,9 @@ My tasks on were principally  **debug** or creation of **debugging tools**.
 I mostly worked with the animator and the **PlayMaker Plug-In** and created extentions for it.
 
 [What I did on this game]()
-[Trailer of the game](https://www.youtube.com/watch?v=82ilW4ViQQU)
-[Website of the game](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)
-[Steam Page of the game](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)
+[Trailer of the game](https://www.youtube.com/watch?v=82ilW4ViQQU)  
+[Website of the game](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)  
+[Steam Page of the game](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)  
 
 ## Other
 
