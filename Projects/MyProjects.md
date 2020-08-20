@@ -41,9 +41,9 @@ I join the team of this game barely at the end of the project.
 My tasks on were principally  **debug** or creation of **debugging tools**.  
 I mostly worked with the animator and the **PlayMaker Plug-In** and created extentions for it.
 
-[What I did](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Frankenstein/Frankenstein.md)
-[Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)  
-[Website](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)  
+[What I did](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Frankenstein/Frankenstein.md)  
+[Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)   
+[Website](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)   
 [Steam Page](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)  
 
 ## Other
