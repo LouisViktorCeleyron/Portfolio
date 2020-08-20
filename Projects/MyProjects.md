@@ -37,4 +37,8 @@ I programmed the base system of the game but my main task was to create a **Leve
 [What I did on this project](nothing.com)
 
 ### The Wanderer: Frankenstein's Creature
->
+>The Wanderer: Frankenstein's Creature is a **Narative Game**. It is the other game on which I work at my **intership** at **La Belle Game** in **2019**. It is made with **Unity 3D**
+
+I join the team of this game barely at the end of the project
+
+![Frankenstein WallPaper](https://monstervine.com/wp-content/uploads/2020/01/The-Wanderer_-Frankensteins-Creature.jpg)
