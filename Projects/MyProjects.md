@@ -35,7 +35,7 @@ I programmed the base system of the game but my main task was to create a **Leve
 [What I did on this project](nothing.com)
 
 ### The Wanderer: Frankenstein's Creature
->The Wanderer: Frankenstein's Creature is a **Narative Game**. I worked on the **PC** version of the game. It is the other game on which I work at my **intership** at **La Belle Game** in **2019**. It is made with **Unity 3D** and it is produced by **Arte**.
+>The Wanderer: Frankenstein's Creature is a **Narative Game**. I worked on the **PC** version of the game. It is the other game on which I work at my **intership** at **La Belle Game** in **2019**. It is made with **Unity 3D** and it is produced by **Arte**. 
 
 I join the team of this game barely at the end of the project.  
 My tasks on were principally  **debug** or creation of **debugging tools**.  
