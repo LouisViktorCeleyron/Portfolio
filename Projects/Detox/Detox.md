@@ -1,10 +1,10 @@
 # Detox
 
-> La Belle Games - Montreuil
-> Internship - 2019 - 1 Month
-> Unity 3D - C#
-> Team of 2
-> Tool Design and Gameplay Programming
+> La Belle Games - Montreuil  
+> Internship - 2019 - 1 Month  
+> Unity 3D - C#  
+> Team of 2  
+> Tool Design and Gameplay Programming  
 
 ## Context
 

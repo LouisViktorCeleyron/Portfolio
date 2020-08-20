@@ -2,11 +2,11 @@
 
 [Frankenstein Image]()
 
->La Belle Games - Montreuil
->Internship - 2019 - 2 Months
->Unity 3D - C#/PlayMaker
->Team of 10
->Debugging and Intergration
+>La Belle Games - Montreuil  
+>Internship - 2019 - 2 Months  
+>Unity 3D - C#/PlayMaker  
+>Team of 10  
+>Debugging and Intergration  
 
 ## ​Context
 
