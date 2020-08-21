@@ -30,13 +30,12 @@ I only worked a month on this project so I couldn't finish my Editor but I impl
 ***Example of Level Design Code***  
 ![Example of Level Design Code](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/Code.png)
 
-
+***And It's result!***  
 ![And It's result](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/Exemple_Of_Level.png)
-### And It's result!  
 
 
-![The Level Editor Executable](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/LevelEditor.png)  
-### The Level Editor Executable   
+***The Level Editor Executable***  
+![The Level Editor Executable](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/LevelEditor.png)     
 
 
 ## What I Learned
