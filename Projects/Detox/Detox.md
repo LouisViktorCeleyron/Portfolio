@@ -27,12 +27,11 @@ With this method the level creation is fully independant from unity and it's way
 
 I only worked a month on this project so I couldn't finish my Editor but I implemented a system to create walls and moving platforms. 
 
-***Example of Level Design Code***  
+***Example of Level Design Serialization Code***  
 ![Example of Level Design Code](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/Code.png)
 
-***And It's result!***  
+***And It's result in game!***  
 ![And It's result](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/Exemple_Of_Level.png)
-
 
 ***The Level Editor Executable***  
 ![The Level Editor Executable](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/LevelEditor.png)     
