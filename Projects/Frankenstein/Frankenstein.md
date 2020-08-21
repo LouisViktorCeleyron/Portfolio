@@ -25,8 +25,8 @@ A few programmers worked on this project before me and there was no cohesion so
 
 ### The tool I made to find PlayMakerReferences
 
-![The tool I made to find playMaker References](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Frankenstein/Pictures/TriPlayMaker.png=200x100)
-​
+![The tool I made to find playMaker References](=200x100)
+<img src="https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Frankenstein/Pictures/TriPlayMaker.png" height="100" width="50">​
 
 ## What I Learned
 
