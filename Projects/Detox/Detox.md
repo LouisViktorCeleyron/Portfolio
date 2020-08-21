@@ -27,7 +27,7 @@ With this method the level creation is fully independant from unity and it's way
 
 I only worked a month on this project so I couldn't finish my Editor but I implemented a system to create walls and moving platforms. 
 
-***Example of Level Design Code***
+***Example of Level Design Code***  
 ![Example of Level Design Code](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/Code.png)
 
 
