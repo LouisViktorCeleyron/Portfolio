@@ -5,7 +5,7 @@
 > Team of 8  
 > Head Programmer, Gameplay and System Programmer, Tool Designer  
 
-![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Pictures/Banner.png)
+![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/Banner.png)
 
 
 ## Context
