@@ -32,7 +32,6 @@ Every feature is coded in a component, and each component can be called by a cha
 
 I used **Jira and Confluence** to make documents for the programmers and to set up deadlines and planning. It also helped us to organize our work and to assign tasks. 
 
-​
 
   
 ### **Gameplay  and System Programmer**
@@ -47,7 +46,11 @@ I used the hierarchy to create a system of interactable object usable in all thr
 
 I also programmed others features as the main title or a dialogue system and a lot of tiny UX things to make the game groovier.
 
-​
+​***My prototype of the Level Editing feature***  
+![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Gifs/TK_Stage_SetUp.gif)
+
+​***When she interacts with a couch Tessa push-it againts her enemies***  
+![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/TessaPush.png)
 
 ### **Tool Designer**
 I created a spline tool that allow the level designers and level builders to place walls and barriers with the good collision preset.
@@ -57,6 +60,8 @@ I also did a lot of **researches and retro engineering** to understand how the U
 I created **generic function library and macro library** to simplify the workflow of the team. 
 
 
+​***Example of add-on I made for the UI in the project***  
+![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/UI_Modification.png)
 ​
 
 
@@ -71,6 +76,15 @@ I knew how to use a source control software before working on this project, but 
 I learnt the **C++ workflow on UE4** with this project. I practised it to design nodes, component, etc.. I also learnt how to use the double workflow C++/Bp because everyone in the team was not a programmer who could do C++.
 
 I also deepen my **knowledges about UE4**, working on a long project with this software allowed me to make experiment and learn all about tiny features of the soft. And there were two of us working every day on UE so each time one of us found something new he informed the other one.
+
+
+## More About this Project
+
+[Trailer](https://www.youtube.com/watch?v=OYH15Qfyvc4)  
+[A Full Playtrough](https://www.youtube.com/watch?v=TI5NTqJ_x2w)  
+[Itch.io Page(soon)]()  
+
+
 
 
 [Get back to the project pages](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)  
