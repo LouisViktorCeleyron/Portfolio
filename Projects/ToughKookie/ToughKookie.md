@@ -71,3 +71,7 @@ I knew how to use a source control software before working on this project, but 
 I learnt the **C++ workflow on UE4** with this project. I practised it to design nodes, component, etc.. I also learnt how to use the double workflow C++/Bp because everyone in the team was not a programmer who could do C++.
 
 I also deepen my **knowledges about UE4**, working on a long project with this software allowed me to make experiment and learn all about tiny features of the soft. And there were two of us working every day on UE so each time one of us found something new he informed the other one.
+
+
+[Get back to the project pages](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)  
+[Get back to the main pages](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
