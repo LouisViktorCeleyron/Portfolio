@@ -7,7 +7,7 @@
 
 ![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/Banner.png)
 
-
+  
 ## Context
 During my studies at **Rubika's Supinfogame**, the graduation project was the conception of a full **Vertical Slice** of a game. At the end of the fourth year, I joined the Tough Kookie Team! 
 
