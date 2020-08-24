@@ -53,9 +53,9 @@ I can use the **Bluetility system** to establishes an easier way to work; for ex
 ![Sheet](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/DatatableInput.png)
 
 *I just have to press this button to import the file in UE*  
-![Button](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/DatatableInput.png)  
+![Button](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/ImportDialogueButton.png)  
 
-![OutputInUE](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/ImportDialogueButton.png)  
+![OutputInUE](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/DatatableOutput.png)  
 
 I also set up preset of actors to allow designers and people who knows just the basics of blueprint to test features or implement easily new ideas.
 I can too, create **macro and function library** to simplify blueprint utilization and factorize methods or code portion we might use a lot to avoid copy/past.  
