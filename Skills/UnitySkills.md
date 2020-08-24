@@ -15,7 +15,7 @@ I use the **UnityEditor library** to conceive **new windows, Property Drawer, an
 ![Dialogue Editor](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/DialogueEditor.png)  
 
 **Example of a Unity Inspector Extention: A Behaviour that launch event when the object tigger a collision**  
-![On Trigger PlusPlus](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/DialogueEditor.png)  
+![On Trigger PlusPlus](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/TrigerPlus.png)  
 
 
 I have the ability to conceive new Settings and Player preferences to smooth the tweaking of global value.   
@@ -194,17 +194,17 @@ public class StartElementEditor : NodeEditor
 
 	}
 ```
-![On Trigger PlusPlus](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/OtherExamples/AttributeProperty.png)  
+![Attribute Property](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/AttributeProperty.png)  
 
 ## UI Programming
 I very familiar with the way the UI system of unity and all tools provided by it work. I also **extend it**, to add events when the player hovers a button, or by creating a new behaviour from the event system, for example. I can make a **responsive UI** adapted for all size of the screen.  
 I did a lot of menus and HUD and I know how to add theses at the gameplay part. 
 
 **Example of a menu I did for a prototype in 2018**  
-![Brood Menu](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/OtherExamples/UI_002.png)  
+![Brood Menu](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/UI_002.png)  
 
 **Example of an Extention of the Unity UI System I code to launch event when the button is overlapped**  
-![Button but Better](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/OtherExamples/UI_001.png)  
+![Button but Better](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/UI_001.png)  
 
 ## Animator
 I use the animator for multiples purposes.   
@@ -218,7 +218,7 @@ I Learn, with my internship at La Belle Games (on Detox and Frankenstein), how t
 I learn how to use the **HLSL Shading language** with Unity, but I mainly used it on 2D texture. I used it for in-game UI and indications. I have the ability to match it with a C# script to have a dynamic shader with effect easily tweakable.
 
 **In this prototype I made the eggs indications and the life and stamina on HLSL**  
-![Eggs animation and stamina](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/OtherExamples/Shader_001.png)  
+![Eggs animation and stamina](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/Shader_001.png)  
 
 [Get back to the skills page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Skills/MySkills.md)  
 [Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
