@@ -9,7 +9,7 @@ Here, you can find informations about my projects and what did I do on them!
 I mainly was the **head programmer** and the **tool designer** of this project, but I did other tasks too.  
 It was our **graduation project**, and we worked more than a year on it. So I had the time to do a lot of stuffs for this project!   
 
-[What I did on this groovy game](nulpart)  
+[What I did on this groovy game](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/ToughKookie.md)  
 [Trailer](https://www.youtube.com/watch?v=OYH15Qfyvc4)  
 [A Full Playtrough](https://www.youtube.com/watch?v=TI5NTqJ_x2w)  
 
@@ -51,4 +51,4 @@ I mostly worked with the animator and the **PlayMaker Plug-In** and created exte
 I hope it was interesting and you learn a little more about my behaviour in teams! 
 If you want you can learn more about my skills [Here!]() 
 
-[Get back to the main pages](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
+[Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)

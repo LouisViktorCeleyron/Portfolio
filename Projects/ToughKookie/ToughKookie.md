@@ -87,5 +87,5 @@ I also deepen my **knowledges about UE4**, working on a long project with this s
 
 
 
-[Get back to the project pages](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)  
-[Get back to the main pages](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
+[Get back to the project page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)  
+[Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
