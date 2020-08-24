@@ -5,6 +5,8 @@ I discovered a lot of interesting features and workflow on the software and I to
 I’ve started using Unreal Engine using only **Blueprints** but in 2019 I’ve started using **C++**! I love the littles features of the softs like the databases which allows me to create a lot of content quickly once I’ve coded my main system.  
 Unreal Engine 4 was a little hard to understand at first but now I had a lot of lessons about it and a lot of time to experiment it. It’s really a lot of fun to use and I love testing crazy ideas on it!  
 
+![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/Banners/UnrealBanner.png)
+
 ***
 
 ## How to work with the Unreal Engine workflow
@@ -63,7 +65,7 @@ I can too, create **macro and function library** to simplify blueprint utilizati
 ***
 
 ## UI Workflow
-For my graduation project Tough Kookie, I had to do **retro engineering** about UI in Unreal Engine to create an UI Workflow adapted to the project. From this experience I learn how work the **UI workflow of Unreal** and I now can use it and/or modify it for a project.  
+For my graduation project Tough Kookie, I did some **retro engineering** about UI in Unreal Engine to create an UI Workflow adapted to the project. From this experience I learn how work the **UI workflow of Unreal** and I now can use it and/or modify it for a project.  
 
 ***
 

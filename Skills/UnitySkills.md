@@ -6,6 +6,8 @@ I also have the occasion of experiencing miscellaneous themes and mechanics: tac
 In 2019 I passed the **Unity Certified Associate test**.   
 Unity is a fun engine I love using and learning. It gave me the love of the programming and tool design.   
 
+![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/Banners/UnityBanner.png)
+
 ***
 
 ## Tool Design in Unity
@@ -116,6 +118,7 @@ public class StartElementEditor : NodeEditor
     public override void OnInspectorGUI()
     {
         base.OnInspectorGUI();
+        EditorGUILayout.LabelField("This is the start Element");
     }
 
     /// <summary>
@@ -160,7 +163,10 @@ public class StartElementEditor : NodeEditor
     }
 }
 
+
 ```
+![Dialogue Editor](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/DialogueEditor_02.png)  
+
 **Example of a static function I coded to simplyfi the utilsation of serialized property in Unity**
 ```csharp
     /// <summary>

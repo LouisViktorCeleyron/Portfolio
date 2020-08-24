@@ -2,6 +2,9 @@
 
 I have a master’s degree in Video Games Programming and Game Design. I’m defining myself as a creative programmer but for more precision there is a little list of what I can do and my fields of specialization!   
 
+![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/Banners/GeneralBanner.png)
+
+
 ***
 
 ## Programming Skills 

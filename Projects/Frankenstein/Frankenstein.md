@@ -20,9 +20,9 @@ I started to work on that game barely at the **end of the project**. It also was
 
 ## What I Did
 
-I did a lot of tasks on this project.  It was the end of the project so a lot of little tasks remained undone. My job was first to **clean** scenes and **Playmaker's scripts**, then I had to fix bugs on a few scenes of the game. I Mainly worked on the biggest scene of the project. I cleaned it and I did a little bit of QA to find bugs then I resolved them. I also **integrated** assets for the project, mainly animations.
+I did a lot of tasks on this project.  It was the end of the project so a lot of little tasks remained undone. My job was first to **clean** scenes and **Playmaker's scripts**, then I fixed bugs on a few scenes of the game. I Mainly worked on the biggest scene of the project. I cleaned it and I did a little bit of QA to find bugs then I resolved them. I also **integrated** assets for the project, mainly animations.
 
-A few programmers worked on this project before me and there was no cohesion so I had to clean and debug scenes with more than 3000 Game objects. To ease my task I took a day to code a **tool so as to find references in PlayMaker**. 
+A few programmers worked on this project before me and there was no cohesion so I did clean and debug scenes with more than 3000 Game objects. To ease my task I took a day to code a **tool so as to find references in PlayMaker**. 
 
 
 ***The tool I made to find PlayMakerReferences***
