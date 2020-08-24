@@ -40,6 +40,7 @@ With this project I learned how important it is to have a **well organized proje
 [Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)   
 [Steam Page of the game](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)  
 
+***
 
 [Get back to the project page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)  
 [Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)

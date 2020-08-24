@@ -6,7 +6,8 @@ I also have the occasion of experiencing miscellaneous themes and mechanics: tac
 In 2019 I passed the **Unity Certified Associate test**.   
 Unity is a fun engine I love using and learning. It gave me the love of the programming and tool design.   
 
-  
+***
+
 ## Tool Design in Unity
 The tool design in Unity is my favourite side of the software. I did a lot of researches and experimentations about it. I like to make **big pipeline tools with everything linked** as well as **little tool that make me more comfortable**.  
 I use the **UnityEditor library** to conceive **new windows, Property Drawer, and Inspector** that fits to the project I’m working on. I like to set up easy ways to edit list or to modify a behaviour for example.   
@@ -196,6 +197,8 @@ public class StartElementEditor : NodeEditor
 ```
 ![Attribute Property](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/AttributeProperty.png)  
 
+***
+
 ## UI Programming
 I very familiar with the way the UI system of unity and all tools provided by it work. I also **extend it**, to add events when the player hovers a button, or by creating a new behaviour from the event system, for example. I can make a **responsive UI** adapted for all size of the screen.  
 I did a lot of menus and HUD and I know how to add theses at the gameplay part. 
@@ -206,6 +209,8 @@ I did a lot of menus and HUD and I know how to add theses at the gameplay part.
 **Example of an Extention of the Unity UI System I code to launch event when the button is overlapped**  
 ![Button but Better](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/UI_001.png)  
 
+***
+
 ## Animator
 I use the animator for multiples purposes.   
 I can create and set up an animator for a project. I’m used to transitions, sub-state machines and blend tree. Furthermore, I can integrate animations to a project with C# and making tools to ease it.  
@@ -214,11 +219,16 @@ I Learn, with my internship at La Belle Games (on Detox and Frankenstein), how t
 
 [On Detox I used the Animator to create a State machine to always know in which position is the character]()
 [The Detox State Machine](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Gifs/StateMachine.gif)
+
+***
+
 ## Shader 2D
 I learn how to use the **HLSL Shading language** with Unity, but I mainly used it on 2D texture. I used it for in-game UI and indications. I have the ability to match it with a C# script to have a dynamic shader with effect easily tweakable.
 
 **In this prototype I made the eggs indications and the life and stamina on HLSL**  
 ![Eggs animation and stamina](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/Shader_001.png)  
+
+***
 
 [Get back to the skills page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Skills/MySkills.md)  
 [Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
