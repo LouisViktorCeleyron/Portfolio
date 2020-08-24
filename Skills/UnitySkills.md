@@ -210,7 +210,7 @@ I very familiar with the way the UI system of unity and all tools provided by it
 I did a lot of menus and HUD and I know how to add theses at the gameplay part. 
 
 **Example of a menu I did for a prototype in 2018**  
-![Brood Menu](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/UI_002.png)  
+![Brood Menu](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/UI_002.gif)  
 
 **Example of an Extention of the Unity UI System I code to launch event when the button is overlapped**  
 ![Button but Better](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/UI_001.png)  
@@ -232,7 +232,7 @@ I Learn, with my internship at La Belle Games (on Detox and Frankenstein), how t
 I learn how to use the **HLSL Shading language** with Unity, but I mainly used it on 2D texture. I used it for in-game UI and indications. I have the ability to match it with a C# script to have a dynamic shader with effect easily tweakable.
 
 **In this prototype I made the eggs indications and the life and stamina on HLSL**  
-![Eggs animation and stamina](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/Shader_001.png)  
+![Eggs animation and stamina](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/Shader_001.gif)  
 
 ***
 
