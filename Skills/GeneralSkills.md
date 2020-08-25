@@ -86,7 +86,7 @@ And I’m always trying to think about the needs of my coworkers and the things 
 I always have a **lot of ideas in mind**, and I’m often inspired by meaningless things. I love to put my ideas on paper or on a prototype. I’m going outside of my comfort zone to find new (fun) way to resolve problems! 
 
 ### **Learning**
-I cannot get tired of **learning new stuff**: softs, technology, techniques, etc… I learn fast: I’m resourceful, curious, and I’m always in the quest of understanding the tools I’m using.  
+I cannot get tired of **learning new stuffs**: softs, technology, techniques, etc… I learn fast: I’m resourceful, curious, and I’m always in the quest of understanding the tools I’m using.  
 I’m not afraid of doing experiment and trying again and again until I understand and master things!  
 
 ***
