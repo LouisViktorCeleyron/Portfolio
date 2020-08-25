@@ -44,7 +44,6 @@ With my last work on the project I learnt how to work with tool designer intern 
 
 ## More about this project
 
-[What I did](nothing.com)  
 [Trailer (in french)](https://www.youtube.com/watch?v=JaBq8_KsXBI)  
 [WebSite (still in french)](https://www.volarela.com/)  
 
