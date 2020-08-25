@@ -8,47 +8,47 @@
 &nbsp;
 
 ### Zelda serie
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Zelda.png)
+![Zelda](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Zelda.png)
 
 &nbsp;
 
 ### Bravely serie
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Bravely.png)
+![Bravely](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Bravely.png)
 
 &nbsp;
 
 ### Dragon Quest serie
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/DQ.png)
+![DQ](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/DQ.png)
 
 &nbsp;
 
 ### Ace Attorney 
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/AA.png)
+![AA](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/AA.png)
 
 &nbsp;
 
 ### Fire Emblem Serie
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/FE.png)
+![FE](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/FE.png)
 
 &nbsp;
 
 ### Owlboy
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Owlboy.png)
+![Owlboy](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Owlboy.png)
 
 &nbsp;
 
 ### Kirby
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Kirby.png)
+![Kirby](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Kirby.png)
 
 &nbsp;
 
 ### Spider-Man
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/SpiderMan.png)
+![Spiderman](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/SpiderMan.png)
 
 &nbsp;
 
 ### Super Smash Bros
-![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/SSB.png)
+![SSB](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/SSB.png)
 
 &nbsp;
 
@@ -57,13 +57,34 @@
 ## Movie and Tv Show 
 
 ### Back to the Future
+![BTTF](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/BTTF.png)
+
+&nbsp;
+
 ### Community
+![Community](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Community.png)
+
+&nbsp;
 ### Dirk Gently
+![DG](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/DG.png)
+
+&nbsp;
 ### Erased
-### How to Train your dragons
-### One Day at Time
+![Erased](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Erased.png)
+
+&nbsp;
 ### Spider Man
-### FMA
+![Spiderman](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/SpiderManF.png)
+
+&nbsp;
+### ASDF Movies
+![ASDF](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/ASDF.png)
+
+&nbsp;
+### Gravity Falls
+![GF](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/GF.png)
+
+&nbsp;
 ---
 ## Comics and Books
 
@@ -98,5 +119,6 @@
 ### Lost me somwhere to discover cool spots
 ### Zoology
 
+---
 
 [Get back to the main pages](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
