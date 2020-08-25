@@ -1,7 +1,7 @@
 # Hey! 
 
 Nice to meet you! 
->(obviously I'm not "meeting you", this is a .md file but feel free to [contact](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md#ways-to-contact-me) me, I will be delighted to talk with you!)
+>(well it's more "e-meeting you", this is a .md file but feel free to [contact](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md#ways-to-contact-me) me, I will be delighted to talk with you!)
 
 ##  I'm Louis Celeyron 
 I’m a **graduate game programmer** at Rubika, Valenciennes, France. I started making games on RPG maker when I was 9, at 12 I continued my tests and my research on **game design and programming** with software like Multimedia Fusion or Construct. 
