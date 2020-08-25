@@ -12,6 +12,7 @@ I first worked a little bit on the first prototype of the game in the summer of 
 
 ## What I Did
 My main mission on the project was to design and code **tools to improve the workflow** of the project.   
+
 A part of my mission was to oversaw an **intern**. I taught him the basics of the tool programming. I had to keep in mind that someone will use and modify my scripts, that’s why I tried to create a healthy and professional working and coding environment with, of course, a source control but by commenting my code and making planning and delegating divide the task: I make sure he always has something interesting to do. It was very rewarding to saw him progress and learn.  
 
 The main part of the tool programming we did was the creation of a complex **dialogue editor** adapted to the project.   
