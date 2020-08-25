@@ -9,7 +9,7 @@
 
   
 ## Context
-During my studies at **Rubika's Supinfogame**, the graduation project was the conception of a full **Vertical Slice** of a game. At the end of the fourth year, I joined the Tough Kookie Team! 
+During my studies at **Rubika's Supinfogame**, the graduation project was the conception of a full **Vertical Slice** of a game. At the middle of the fourth year, I joined the Tough Kookie Team! 
 
 The game is a  groovy **beat them up with management features**.
  
