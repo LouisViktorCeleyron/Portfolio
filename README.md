@@ -23,7 +23,7 @@ I also like organizing events. I was on my school student council for 2 year an
 
 ## Ways to contact me
 
-If you want, you can reach me via :
+If you want, you can reach me :
 
 Mail : [louis.celeyron@gmail.com](louis.celeyron@gmail.com)  
 LinkedIn : [louis-celeyron](https://www.linkedin.com/in/louis-celeyron/)  
