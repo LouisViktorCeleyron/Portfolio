@@ -15,7 +15,7 @@ The game is a  groovy **beat them up with management features**.
  
 As Tessa Kirby AKA Tough Kookie a famous actress and director, you have to shoot the bests actions movies of the 70's!​
 
-The game is divided in three parts, the first one is a hub. In this part the player can choose his contract and interact with the crew and some props. In the second one the player set up the camera in the fight scene because the score only increases when the avatar is in front of the camera. In the last one the player fights waves of ninjas in front of the camera, trying to be as spectacular as possible.
+The game is divided in three parts, the first one is a hub. In this part the player can choose his contract and interacts with the crew and some props. In the second one the player sets up the camera in the fight scene because the score only increases when the avatar is in front of the camera. In the last one the player fights waves of ninjas in front of the camera, trying to be as spectacular as possible.
 
 
 ​
