@@ -3,7 +3,7 @@
 ## Video-Games
 
 ### Pokemon serie  
-![Pokemon]()
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Pokemon.png)
 ### Zelda serie
 ### Bravely serie
 ### Dragon Quest 
