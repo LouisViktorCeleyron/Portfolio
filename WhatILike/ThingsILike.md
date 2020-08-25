@@ -4,17 +4,54 @@
 
 ### Pokemon serie  
 ![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Pokemon.png)
+
+&nbsp;
+
 ### Zelda serie
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Zelda.png)
+
+&nbsp;
+
 ### Bravely serie
-### Dragon Quest 
-### Phoenix write 
-### Mario
-### Fire Emblem
-### Banjo & Kozooie (Yes the last one)
-### Owl boy
-### The Messenger
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Bravely.png)
+
+&nbsp;
+
+### Dragon Quest serie
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/DQ.png)
+
+&nbsp;
+
+### Ace Attorney 
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/AA.png)
+
+&nbsp;
+
+### Fire Emblem Serie
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/FE.png)
+
+&nbsp;
+
+### Owlboy
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Owlboy.png)
+
+&nbsp;
+
+### Kirby
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/Kirby.png)
+
+&nbsp;
+
 ### Spider-Man
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/SpiderMan.png)
+
+&nbsp;
+
 ### Super Smash Bros
+![Pokemon](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/SSB.png)
+
+&nbsp;
+
 
 ---
 ## Movie and Tv Show 
