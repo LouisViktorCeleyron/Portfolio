@@ -19,7 +19,7 @@ I also like organizing events. I was on my school student council for 2 year an
 - [My Resume/Cv](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/louisceleyron.pdf)
 - [A list of my skills](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Skills/MySkills.md)
 - [Documents abouts my projects](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)
-- [A list of the things I like if you really want to know every details ](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/ThingsILike.md)
+- [A list of the things (VideoGames,Movies,etc..) I like if you really want to know me!](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/ThingsILike.md)
 
 ## Ways to contact me
 
