@@ -60,6 +60,10 @@ My Game Designs Skills allows me to do **creative programming** and to always tr
 ## Other Softwares  
 I’m curious, and I try to stay updated about **new or indie software and technology** that can interest me and I’m taking time to test them!  
 I also have skills in other software than Unity or Unreal Engine!  
+
+### **Source Control System**
+I did a lot of projects in teams, so I had a lot of occasion to try and use Source Control System and softwares. I'm very confortable with Git(Github/SourceTree) and SVN (Tortoise)
+
 ### **Games Softwares**
 I started making game like 10 years ago using Rpg Maker, Fusion2, construct and Game Maker and I used them a lot before I start learning programming.  
 I still used them once in a while, and I’m starting to use Godot and Buildbox as well to get my head of Unity and Unreal and try something else!  
