@@ -4,7 +4,7 @@
 > Unity - C#  
 > Team of 7  
 > Tool Designer  
-
+ 
 ![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/Banner.png)
 
 Les Chroniques de Volarela is a point'n'click educational game that targets 8 to 12 years-old players. On this game the player incarnates a detective in a fantastic world composed of floating islands, and it must use physical objects provided with the game to solve puzzles.  
