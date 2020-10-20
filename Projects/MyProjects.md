@@ -12,6 +12,7 @@ It was our **graduation project**, and we worked more than a year on it. So I ha
 [What I did on this groovy game](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/ToughKookie.md)  
 [Trailer](https://www.youtube.com/watch?v=OYH15Qfyvc4)  
 [A Full Playtrough](https://www.youtube.com/watch?v=TI5NTqJ_x2w)  
+[Download the game and have fun!](https://tough-kookie.itch.io/tough-kookie)
 
 
 ## Professional Projects
