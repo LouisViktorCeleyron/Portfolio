@@ -7,7 +7,9 @@ Nice to meet you!
 I’m a **graduate game programmer and designer** at Rubika, Valenciennes, France. I started making games on RPG maker when I was 9, at 12 I continued my tests and my research on **game design and programming** with software like Multimedia Fusion or Construct. 
 Today I am still prototyping with this software, however, I use **Unreal Engine 4 (since 2018)** or **Unity (since 2016)** more often.
 
-I have skills in **system, gameplay, and UI/UX programming**, but my real passion is **Tool Programming**, which I started to practice in 2018. I have a real interest about Programming and Design, and I use all theses skills to push the limits of my creativity: I love to prototyping and to create tools that I would use as a Designer.
+I have skills in **system, gameplay, and UI/UX programming**, but my real passion is **Tool Programming**, which I started to practice in 2018. 
+
+I am a **creative programmer**: I have a real interest about Programming and Design, and I use all theses skills to push the limits of my creativity: I love to prototyping and to create tools that I would use as a Designer.
 
 I love **learning** new material, in various fields, such as, of course, Game Design and Game Programming, but also in science, zoology, cooking, cinema, and more!
 
