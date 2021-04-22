@@ -82,7 +82,7 @@ I also deepen my **knowledges about UE4**, working on a long project with this s
 
 [Trailer](https://www.youtube.com/watch?v=OYH15Qfyvc4)  
 [A Full Playtrough](https://www.youtube.com/watch?v=TI5NTqJ_x2w)  
-[Itch.io Page(soon)]()  
+[Itch.io Page](https://tough-kookie.itch.io/tough-kookie)  
 
 ***
 

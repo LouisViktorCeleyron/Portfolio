@@ -17,6 +17,15 @@ I like to extend software but I’m enjoying the conception of **external tools*
 
 [My level editor in Detow is an example of external tool](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Detox.md#what-i-did)
 
+
+### **Creativity**
+I always have a **lot of ideas in mind**, and I’m often inspired by meaningless things.
+The main reason why I love tool design it's because it helps me **prototyping quickly and efficiently**: I'm a creative guy and programming is my main tool to show and express my ideas!  
+
+I think of my tools like games for Designer: their purpose is, of course, to ease a workflow and accelerate a production but when I'm using a tool or making a game I want to have as much fun as playing a game and I want the people who will use my tools and play my games to feel the same way! 
+
+Creativity is the most important thing to me, and I want to create ways for everyone and myself to enjoy it! 
+
 ### **Gameplay Programming**
 I am very comfortable with the **systemic Gameplay programming** like for RPG or games with huge databases. But I enjoy working on any type of gamplay. I know how to create behaviour and scriptable object in C# for Unity and to create flexible components and actors for Unreal Engine.  
 My way of doing Gameplay Programming is to quickly **prototype** something to test then to restart it from scratch, knowing where I’m going, to make something clean.  
@@ -79,15 +88,13 @@ I’m a big fan of the google suite, especially google sheets, to share document
   
 ***
 
-## Other Skills 
+## Soft Skills 
 ### **Communication**
 I’m familiar with the teamwork, in fact the majority of my projects **were realized by a team of more than 5 peoples**. Per consequent I know how important a good communication is in a team, and I always make the maximum to share informations with everyone.  
 I’m used to work and **communicate with Designer, Prgrammers, Artist, and Producer** but also with people who are not from the video game industry; I used to work with people from animation movies and from industrial design industries.
 I was an intern and I had an intern, so I have the ability to communicate with everyone in a hierarchy. 
 And I’m always trying to think about the needs of my coworkers and the things I can do to improve our ways of working all together.  
 
-### **Creativity**
-I always have a **lot of ideas in mind**, and I’m often inspired by meaningless things. I love to put my ideas on paper or on a prototype. I’m going outside of my comfort zone to find new (fun) way to resolve problems! 
 
 ### **Learning**
 I cannot get tired of **learning new stuffs**: softs, technology, techniques, etc… I learn fast: I’m resourceful, curious, and I’m always in the quest of understanding the tools I’m using.  
