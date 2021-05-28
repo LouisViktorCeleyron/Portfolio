@@ -56,6 +56,10 @@
 ---
 ## Movie and Tv Show 
 
+### Detective Conan (Case Closed)
+![DC](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/DC.png)
+&nbsp;
+
 ### Back to the Future
 ![BTTF](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/WhatILike/Banners/BTTF.png)
 
@@ -97,6 +101,7 @@
 ### Kick Ass
 ### Promised Neverland
 ### One Piece
+### Detective Conan (OKAY I have a lot of problems)
 
 ---
 
