@@ -79,7 +79,7 @@ In Tough Kookie, I used a Level Streaming based system to change of Level and at
 I can use all the animation-related tool in Unreal Engine 4: **AnimBP, AnimMontages, AnimNotify,** etc… And how to links animation to the gameplay with code.
 
 ### **Basic Graphic Workflow**
-I know the basics of the graphic workflow in UE4; I know how to set up a lighting and a post process. I also can create **basic shaders**.
+I know the basics of the graphic workflow in UE4; I know how to set up a lighting and a post process. I also can create some **shaders**.
 
 ***
 
