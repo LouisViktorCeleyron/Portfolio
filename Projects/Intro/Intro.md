@@ -17,6 +17,26 @@ My idea was to make a game where the player can launch action by combining eleme
 
 ## 1st Scope and future of the project
 
+I wanted to make a 1st prototype of the project that would allow me to experiment with the concept and show a peak of the gameplay loop without going in all directions.
+
+The elevator pitch of the game is : 
+
+> *Battle oponent in turn based battle by combining elements to create powerful and various consequences. Each victory will grant you more elements and ressources to experiments and find the most powerfull combos to face randomly generated foes*
+
+Here's what I hoped to do at the start of the project and what I've done.
+
+### Gameplay 🎮
+
+### Tech 🔧
+
+|Objective|Done|Comment|
+|---|---|---|
+|Scriptable Object architecture that'll allow me to create a lot of consequences|||
+|Tools that facilitate consequence management|||
+|Observer pattern Implementation for UI and feedbacks|||
+|Procedural |||
+
+
 
 
 ## Elements and Consequences
