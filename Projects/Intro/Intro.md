@@ -16,7 +16,7 @@ These last years I have been playing a lot of Deckbuilding Rogue like (Balatro, 
 My idea was to make a game where the player can launch action by combining elements. I started brainstorming and a lot of ideas came to my mind so I launched Unity and worked on the first prototype. 
 
 
-## Concept
+## **Concept**
 
 The game is a rogue like deckbuilder. 
 
@@ -30,8 +30,9 @@ Here's what a standard game would look like :
 > * Enter the 1st realm and fight the 1st foe 
 > * In battle drag'n'drop elements onto another to launch consequences
 > * Each time you'll defeat a foe you'll win monney and play the lotterie to win a random element to add to your deck
+> * At the end of the battle you do not heal
 > * From time to time you'll enter a shop  or rest area
-> * At the end of every realms you fight a boss, once you win you enter the next realm
+> * At the end of every realms you fight a boss, once you win you enter the next realm and heal all of your HP 
 > * If you loose you'll start all over again but you can try a new starter deck and/or try to manages your ressources differently
 
 
@@ -43,16 +44,35 @@ Here's what a standard game would look like :
 
 > **Status Effects** : Some consequences will give you or your opponent status effects. They can do a lot of different things like healing or damaging but also affect your precision, block dammages, and even generate elements!
 
-> **Rast Area**
+> **Rest Area** : That's where you can either delete elements from your deck or heal few HP
 
-> **Shop**
+> **Shop** : That's where you can buy new elements to add to your deck
 
 
 ### Battle
 
+![Deckbuilders](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/Banner.png)
+
+The Battle screen looks like that :
+
+
+> * You can drag elements to eachother to preview what consequence this combo will unleash.
+> * If you release the mouse the consequence will be launched.
+> * You can hover your mouth over the foe to preview what they will do
+> * You and your foe both have a life bar. 
+> * You can see what status effects you and your foe are under.
+> * At any time during your turn you can press the "End turn" button to end your turn
+> * At the start of your turn, you draw 2 elements among the ones available in your deck 
+> * If your deck is empty your discard pile shuffles to your deck 
+> * Once either your or the foe's HP drop bellow 0 the battle ends
+
 ### Map
 
-## 1st Scope and future of the project
+The map screen looks like that, click on the swords icons to go to battle, to the bed icons to go to the rest area and to the bag icons to go to the shop. 
+
+
+
+## **1st Scope and future of the project**
 
 I wanted to make a 1st prototype of the project that would allow me to experiment with the concept and show a peak of the gameplay loop without going in all directions.
 
@@ -69,7 +89,7 @@ Here's what I hoped to do at the start of the project and what I've done.
 |Small Feedbacks and Fxs|✅|Really small stuffs like fade in/out animations HP update etc...|
 |Shop and rest area|✅|
 |Ergonomic and QOL|✴️|You can preview what the foe is going to do and what combinaison your going to have but some stuffs are missing|
-|Class System|❌|I did not implement classes with abilities and stufss but you can choose differents starting decks|
+|Job System|❌|I did not implement jobs with abilities and stufss but you can choose differents starting decks|
 |Relics and items|❌|I focused on having a strong system and didn't want to mess it up by adding more stuffs|
 
 ### Tech 🔧
@@ -88,6 +108,7 @@ Here's what I hoped to do at the start of the project and what I've done.
 
 ## Elements and Consequences
 ## Combinator and Battle Scene
+## UI
 ## Managers
 ### Battle Manager
 ## Other stuffs
@@ -97,7 +118,7 @@ Here's what I hoped to do at the start of the project and what I've done.
 ### Editor 
 ### Simple stuffs 
 
-## Game informations and guide
+# Game informations and guide
 
 
 ***
