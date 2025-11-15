@@ -1,17 +1,19 @@
 # Intro
-> Personal Project    
-> 2 Months   
-> Unity - C#  
+
+
+>🚹 Personal Project    
+>🕖 2 Months   
+>👨‍💻 Unity - C#  
  
 ![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/Banner.png)
 
 ## Context 
->[!Warning]
->Hola que tal
 
 In the summer of 2024 I decided to make a system based game to have something to show and to share to my student as an exemple. 
 
-These last years I have been playing a lot of Deckbuilding Rogue like (Balatro, Slay the spire, Astrea, Wildfrost etc...) and I have been thinking about my take on the genre for a little while. The project I wanted to do for my students was the occasion to put this Idea to the test. 
+These last years I have been playing a lot of Deckbuilding Rogue like (Balatro, Slay the spire, Astrea, Wildfrost etc...) and I have been thinking about what would be my take on the genre for a little while. 
+
+The project I wanted to do for my students was the occasion to put this idea to the test. 
 
 ![Deckbuilders](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/Banner.png)
 
@@ -98,7 +100,7 @@ I wanted to make a 1st prototype of the project that would allow me to experimen
 
 Here's what I hoped to do at the start of the project and what I've done.
 
-### Gameplay 🎮
+### 🎮 Gameplay 
 
 |Objective|Done|Comment|
 |---|---|---|
@@ -112,8 +114,8 @@ Here's what I hoped to do at the start of the project and what I've done.
 |Job System|❌|I did not implement jobs with abilities and stufss but you can choose differents starting decks|
 |Relics and items|❌|I focused on having a strong system and didn't want to mess it up by adding more stuffs|
 
-### Tech 🔧
-
+### 🔧 Tech
+ 
 |Objective|Done|Comment|
 |---|---|---|
 |Scriptable Object architecture that'll allow me to create a lot of consequences|✅||
@@ -123,7 +125,7 @@ Here's what I hoped to do at the start of the project and what I've done.
 |InGame Debug Tools|✅| I have cheat Code and stuff ingame
 
 
-### Future of the Project
+### 🔮 Future of the Project 
 
 Now that I programmed a strong and flexible system, I would like to add more content (elements, consequences, status, etc...) and a true structure to the game. 
 
