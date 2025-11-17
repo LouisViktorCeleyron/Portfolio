@@ -7,26 +7,7 @@
  
 ![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/Banner.png)
 
-
-## TL;DR
-
-This devlog document is a lot more long that I anticipated so If you only want to know the big lines of my experience on this project :
-
-- The game is a rogue like game builder. You combine elements to launch action in turn based combats. 
-- I have a finished prototype with 3 level and a fully functioning system
-- I used my Unity Editor skills and my sens of code architecture to create a very flexible project
-- I made few mistake and faced few problems, mainly with some deep editor related stuffs and I'm happy to have learned a lot thanks to that
-- I needed to polish an old Unity plugin that I made so I finished it ! ([link here]())
-- I'm proud of my documentation, my design and code architecture really helped me to not go in every directions and to keep the scope of the project realistic
-- I had, like always, a lot more trouble making simple stuffs than making a big system 
-
-
-Anyhow if you have the time to read the whole devlog I really appreciate it 😀
-
-
-# The Game 
-
-## **Context** 
+## Context 
 
 In the summer of 2024 I decided to make a system based game to have something to show and to share to my student as an exemple. 
 
@@ -43,16 +24,41 @@ My idea was to make a game where the player can launch action by combining eleme
 
 The game is a rogue like deckbuilder. 
 
-You will progress in realms, each one make you battle 4 foes, before facing a powerfull boss.  
+The elevator pitch of the game is : 
 
-The battles are turn based and you use a deck of **elements**. Each turn you draw elements and you can combine them to launch attack, draw more elements, heal you, or many other things. 
+> *Battle oponent in turn based battle by combining elements to create powerful and various consequences. Each victory will grant you more elements and ressources to experiments and find the most powerfull combos to face randomly generated foes*
 
-Each time you'll defeat a foe you'll win monney and play the lotterie to win a random element to add to your deck.
+Here's what a standard game would look like :
 
-After every 2 battles you can either rest to heal your HP or remove an element in an Inn or spend your money to add elements in a shop.
+> * Choose a starter deck of elements
+> * Enter the 1st realm and fight the 1st foe 
+> * In battle drag'n'drop elements onto another to launch consequences
+> * Each time you'll defeat a foe you'll win monney and play the lotterie to win a random element to add to your deck
+> * At the end of the battle you do not heal
+> * From time to time you'll enter a shop  or rest area
+> * At the end of every realms you fight a boss, once you win you enter the next realm and heal all of your HP 
+> * If you loose you'll start all over again but you can try a new starter deck and/or try to manages your ressources differently
 
+## TL;DR
 
-### **Glossary**
+This devlog document is a lot more long that I anticipated so If you only want to know the big lines of my experience on this project :
+
+- I have a finished prototype with 3 level and a fully functioning system
+- I used my Unity Editor skills and my sens of code architecture to create a very flexible project
+- I made few mistake and faced few problems, mainly with some deep editor related stuffs and I'm happy to have learned a lot thanks to that
+- I needed to polish an old Unity plugin that I made so I finished it ! ([link here]())
+- I'm proud of my documentation, my design and code architecture really helped me to not go in every directions and to keep the scope of the project realistic
+- I had, like always, a lot more trouble making simple stuffs than making a big system 
+
+[Link to download the prototype]()
+[Link to the project repo]()
+[Link to the project documentation](https://docs.google.com/spreadsheets/d/1h9zG16REBftnj_vJVHQ-YPOQ1HlRdiy30p6ICMqrrNc/edit?usp=sharing)
+
+Anyhow if you have the time to read the whole devlog I really appreciate it 😀
+
+## **Concept** Part II
+
+### Glossary
 
 > **Element** : *Your deck is filled with elements. By combining them you can launch consequences.*
 
@@ -63,6 +69,29 @@ After every 2 battles you can either rest to heal your HP or remove an element i
 > **Rest Area** : That's where you can either delete elements from your deck or heal few HP
 
 > **Shop** : That's where you can buy new elements to add to your deck
+
+
+### Battle
+
+![Deckbuilders](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/Banner.png)
+
+The Battle screen looks like that :
+
+
+> * You can drag elements to eachother to preview what consequence this combo will unleash.
+> * If you release the mouse the consequence will be launched.
+> * You can hover your mouth over the foe to preview what they will do
+> * You and your foe both have a life bar. 
+> * You can see what status effects you and your foe are under.
+> * At any time during your turn you can press the "End turn" button to end your turn
+> * At the start of your turn, you draw 2 elements among the ones available in your deck 
+> * If your deck is empty your discard pile shuffles to your deck 
+> * Once either your or the foe's HP drop bellow 0 the battle ends
+
+### Map
+
+The map screen looks like that, click on the swords icons to go to battle, to the bed icons to go to the rest area and to the bag icons to go to the shop. 
+
 
 
 ## **1st Scope and future of the project**
@@ -109,9 +138,9 @@ Here's the stuffs I have been thinking about :
 - 2 Currency (one in run/ one to unlock stuffs outside of the runs)
 - Other Game mode (Puzzle/Challenge, etc...)
 - Seed system
+- 
 
-
-# What I did
+I'm writing everything without taking the scope in consideration. I know some of this stuff is scope ++++++!
 
 ## Architecture
 
@@ -226,9 +255,16 @@ You can see how they turned out in the editor:
 [The ConsequenceSpecialEffect Script]()
 
 
-## Editor
 
+## Combinator and Battle Scene
 
+## UI
+
+### Display of status in UI
+
+## Managers
+
+### Battle Manager
 
 ## Other stuffs
 
@@ -236,11 +272,7 @@ You can see how they turned out in the editor:
 
 ### Descriptions
 
-### Battle system
-
-### Display of status in UI
-
-# Problems I encountered
+## Problems I encountered
 
 ### Infinite Loop
 
@@ -249,12 +281,9 @@ You can see how they turned out in the editor:
 
 ### Simple stuffs 
 
-# Links
+# Game informations and guide
 
 You can find my game design doc, with every elements, combinaison, etc... [here](https://docs.google.com/spreadsheets/d/1h9zG16REBftnj_vJVHQ-YPOQ1HlRdiy30p6ICMqrrNc/edit?usp=sharing)
-[Link to download the prototype]()
-[Link to the project repo]()
-[Link to the project documentation](https://docs.google.com/spreadsheets/d/1h9zG16REBftnj_vJVHQ-YPOQ1HlRdiy30p6ICMqrrNc/edit?usp=sharing)
 
 ***
 
