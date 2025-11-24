@@ -18,8 +18,6 @@ This devlog document is a lot more long that I anticipated so If you only want t
 - I made few mistakes and faced few problems, mainly with some deep editor related stuffs and I'm happy to have learned a lot thanks to that
 - I needed to polish an old Unity plugin that I made so I finished it ! ([link here]())
 - I'm proud of my design and code architecture. I tried not to go in every directions and to keep the scope of the project realistic
-- I had a lot more trouble making simple stuffs than making a big system 
-
 
 Anyhow if you have the time to read the whole devlog I really appreciate it 😀
 
@@ -28,13 +26,13 @@ Anyhow if you have the time to read the whole devlog I really appreciate it 😀
 
 ## 🔎**Context** 
 
-In the summer of 2024 I decided to make a system based game to have something to show and to share to my student as an exemple. 
+In the summer of 2024 I decided to make a system based game to have something to show and to share to my students as an exemple. 
 
 These last years I have been playing a lot of Deckbuilding Rogue like (Balatro, Slay the spire, Astrea, Wildfrost etc...) and I have been thinking about what would be my take on the genre for a little while. 
 
 The project I wanted to do for my students was the occasion to put this idea to the test. 
 
-![Deckbuilders](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/Banner.png)
+![Deckbuilders](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/IMG_Banner.png)
 
 My idea was to make a game where the player can launch action by combining elements. I started brainstorming and a lot of ideas came to my mind so I launched Unity and worked on the first prototype. 
 
@@ -385,7 +383,7 @@ public override string GetDescription(FightingInstance launcher = null)
     return retStatus + retBase + retInverseTarget;
 }
 ```
-> The status subclass displays the status with every cases 
+> *The status subclass displays the status with every cases* 
 
 ```cs
     public override string GetDescription(FightingInstance launcher = null)
@@ -398,7 +396,7 @@ public override string GetDescription(FightingInstance launcher = null)
         return retBaseDam + (recoilDamages>0?retRecDam:string.Empty) + retBase + (howManyTimes>1?retAmount:string.Empty); //combine everything into a string
     }
 ```
-> Finally the offensive consequence is displaying the dammges/healing 
+> *Finally the offensive consequence is displaying the dammges/healing*
 
 ### Battle System
 
@@ -416,10 +414,33 @@ Then in the status parent class I have a Status enum virtual property that every
 ```cs
 public override StatusEffect StatusEnum => StatusEffect.ThunderMarked;
 ```
-> For example the subclass of the ThunderMarked status
+> *For example the subclass of the ThunderMarked status*
 
 In Battle a **MasterBattleUI** script has a dictionary that allow me to link a status enum to a status icon so when the status are updated the correct icons are displayed.
 
+I also have a status description panel that indicate what the status does. 
+
+Every status has a **GetDescription** method that indicate what the status will do with the current amount. 
+
+```cs
+public override string GetDescription()
+{
+    return $"I will receive {Amount.ColorizeStatusString(true)} damages at the start of my turn, then lose 1 stack";
+}
+```
+> *The poison status GetDescription*
+
+![alt text](image-5.png)
+
+### Debugger
+
+I made an in-game debugger that can be accessed with CTRL+E that allow you to draw any element from the game, Buff your character or heal them. 
+
+![alt text](image-4.png)
+
+It's really handy when I have to try new consequences or to go through difficult battle when I have to test something else. 
+
+It's available in the build. 
 
 # Problems I encountered
 
