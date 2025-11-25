@@ -117,7 +117,7 @@ I wanted to make a system that allowed me to create a lot of content quickly. To
 
 You can find here a rough diagram of my code structure. 
 
-![Architecture](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/IMG_Architecture.png)
+![Architecture](Pictures/IMG_Architecture.png)
 
 ### Elements
 
@@ -165,6 +165,8 @@ I created an abstract parent Consequence class that will be called by the *Fight
 - Who is the target of the consequence
 - If the consequence have consequence special effect (or CSE) (Discarding elements, healing, drawing new elements, etc...) ([see bellow](#cse))
 - Some data stuffs (name, description, icon, etc...)
+
+![consequences](Pictures/IMG_Consequence.png)
 
 Every consequence have a ***Call Consequence*** function that will be called by the *Fighting Instance*. This function has two parameters, both are *Fighting Instances* the launcher and their opponent.
 
@@ -248,7 +250,7 @@ CSE are extra effect that could be called by any consequences, to avoid an inher
 
 I created a class called *ConsequenceSpecialEffect*, i created a child class for every type of CSE I needed, and I created a *CseCollection* to avoid making the Consequence Script too messy. 
 
-![alt text](image-3.png)
+![alt text](Pictures/IMG_CSE.png)
 
 I had a problem to make the CSE as easy as possible to edit in the inspector, but I talk a bit more about this issue [here](#editor)
 
@@ -268,13 +270,11 @@ On this project I mainly used **Property Drawer**, something I was prepared for 
 
 I used the editor to make the CSE waaaaayyyyyy easier to edit in the inspector : 
 
-![CSE](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/IMG_CSE.png)
-
 This way I can add and edit as much CSE as I want and I have a fully in editor decorator pattern. 
 
 The hard thing was to detect all the class that inherits from CSE and made them as a popup.     
 
-![CSE_Popup](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/IMG_CSE_Popup.png)
+![CSE_Popup](Pictures/IMG_CSE_Popup.png)
 
 The way I do that is simple : I use the **GetAllSubclassOf** method to get all subclass of CSE. 
 
@@ -319,7 +319,7 @@ You can find the CSEEditor Code [here](link)
 
 A tiny script I did that came REALLY handy was the **Colorizing Debug Log**. It does exactly what it says and it allow me to filter my logs.
 
-![alt text](image.png)
+![alt text](Pictures/IMG_ColorizeDebug.png)
 
 ```cs
 public static class ColorizeExtention 
@@ -343,7 +343,7 @@ I'll probably add this script to my toolbox!
 
 I'm proud of the way I generate description on my actions.
 
-![alt text](image-1.png)
+![alt text](Pictures/IMG_Description.png)
 
 It's a simple **ToString()** method but I use a sort of Russian Doll hierarchy of descriptions :
 
@@ -407,7 +407,7 @@ The battle system is managed thanks to the **BattleManager** class. I use a coro
 
 To display my status in UI i added every status icon to my battle UI. 
 
-![alt text](image-2.png)
+![alt text](Pictures/IMG_StatusIcons.png)
 
 Then in the status parent class I have a Status enum virtual property that every subclass implement.
 
@@ -430,13 +430,13 @@ public override string GetDescription()
 ```
 > *The poison status GetDescription*
 
-![alt text](image-5.png)
+![alt text](Pictures/IMG_StatusDescription.png)
 
 ### Debugger
 
 I made an in-game debugger that can be accessed with CTRL+E that allow you to draw any element from the game, Buff your character or heal them. 
 
-![alt text](image-4.png)
+![alt text](Pictures/IMG_Debugger.png)
 
 It's really handy when I have to try new consequences or to go through difficult battle when I have to test something else. 
 
@@ -454,8 +454,11 @@ It's available in the build.
 # Links
 
 You can find my game design doc, with every elements, combinaison, etc... [here](https://docs.google.com/spreadsheets/d/1h9zG16REBftnj_vJVHQ-YPOQ1HlRdiy30p6ICMqrrNc/edit?usp=sharing)
+
 [Link to download the prototype]()
+
 [Link to the project repo]()
+
 [Link to the project documentation](https://docs.google.com/spreadsheets/d/1h9zG16REBftnj_vJVHQ-YPOQ1HlRdiy30p6ICMqrrNc/edit?usp=sharing)
 
 ***
