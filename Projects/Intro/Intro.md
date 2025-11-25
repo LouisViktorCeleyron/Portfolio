@@ -32,7 +32,7 @@ These last years I have been playing a lot of Deckbuilding Rogue like (Balatro, 
 
 The project I wanted to do for my students was the occasion to put this idea to the test. 
 
-![Deckbuilders](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/IMG_Banner.png)
+![Deckbuilders](Pictures/IMG_Banner.png)
 
 My idea was to make a game where the player can launch action by combining elements. I started brainstorming and a lot of ideas came to my mind so I launched Unity and worked on the first prototype. 
 
