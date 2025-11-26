@@ -4,8 +4,6 @@
 >🚹 Personal Project    
 >🕖 2 Months   
 >👨‍💻 Unity - C#  
- 
-![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Intro/Pictures/Banner.png)
 
 
 ## 📋TL;DR
@@ -108,6 +106,13 @@ Here's the stuffs I have been thinking about :
 - Other Game mode (Puzzle/Challenge, etc...)
 - Seed system
 
+# Screenshots
+
+![alt text](Pictures/IMG_NewRun.png)
+![alt text](Pictures/IMG_Battle.png)
+![alt text](Pictures/IMG_Inn.png)
+![alt text](Pictures/IMG_Map.png)
+![alt text](Pictures/IMG_Shop.png)
 
 # What I did
 
@@ -441,15 +446,6 @@ I made an in-game debugger that can be accessed with CTRL+E that allow you to dr
 It's really handy when I have to try new consequences or to go through difficult battle when I have to test something else. 
 
 It's available in the build. 
-
-# Problems I encountered
-
-### Infinite Loop
-
-### Editor 
-
-
-### Simple stuffs 
 
 # Links
 

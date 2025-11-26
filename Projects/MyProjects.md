@@ -2,7 +2,15 @@
 
 Here, you can find informations about my projects and what did I do on them! 
 
-## Student Project 
+### Intro
+> Intro is a **RogueLike Deckbuilder** for **PC** made with **Unity** in 2024
+
+It's a **Solo project** I made to challenge my **system programing** skills in Unity and to experiment with a concept I had for a while: a turn based game where you combine elements every turn.
+
+[What I did](Intro/Intro.md)    
+[Itchio Page]()     
+[Project's Repository]()
+
 ### Tough Kookie
 > Tough Kookie is a **Beath Them'up** game made with **UE4** in **BP and C++** in **2019-2020**
 
@@ -15,7 +23,6 @@ It was our **graduation project**, and we worked more than a year on it. So I ha
 [Download the game and have fun!](https://tough-kookie.itch.io/tough-kookie)
 
 
-## Professional Projects
 ### Les Chroniques de Volarela
 > I worked as a freelance for **CrossQuest Studio** twice on this educative **point & click** made with **Unity-C#**. My Last Contract with them was on from **June to August 2020**.  
 
