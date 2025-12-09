@@ -11,6 +11,18 @@ It's a **Solo project** I made to challenge my **system programing** skills in U
 [Itchio Page]()     
 [Project's Repository]()
 
+### Teaching Game Dev
+
+
+### Melobot: A Last Song
+> I worked as a freelance for **Anomalie Studio** on their 1st project: a **Rythm and Puzzle game** made in **Unity C#**. I worked with them from **November 2020 to March 2021**
+
+I was hired to be a **general programmer** on the early stage of the project to clean the project and to help with gameplay integration.
+
+[What I did](Melobot/Melobot.md)
+[Trailer](https://www.youtube.com/watch?v=2sHevzBmdKs)
+[Steam Page]()
+
 ### Tough Kookie
 > Tough Kookie is a **Beath Them'up** game made with **UE4** in **BP and C++** in **2019-2020**
 
