@@ -6,9 +6,7 @@
 >👨‍💻 Unity - C#  
 
 <p align=center>
-
-![Banner](Pictures/IMG_IntroBanner.png)
-
+<img src="Pictures/IMG_IntroBanner.png" alt=""/>
 </p>
 
 ## 📋TL;DR
