@@ -5,6 +5,11 @@
 >🕖 2 Months   
 >👨‍💻 Unity - C#  
 
+<p align=center>
+
+![Banner](Pictures/IMG_IntroBanner.png)
+
+</p>
 
 ## 📋TL;DR
 
@@ -113,6 +118,7 @@ Here's the stuffs I have been thinking about :
 ![alt text](Pictures/IMG_Inn.png)
 ![alt text](Pictures/IMG_Map.png)
 ![alt text](Pictures/IMG_Shop.png)
+![alt text](Pictures/GIF_Battle.gif)
 
 # What I did
 
