@@ -11,7 +11,6 @@ It's a **Solo project** I made to challenge my **system programing** skills in U
 [Project's Repository](https://github.com/LouisViktorCeleyron/Intro/tree/main)  
 [Itchio Page](https://laoil.itch.io/intro)
 
-<iframe frameborder="0" src="https://itch.io/embed/3347455?bg_color=735751&amp;fg_color=e7d7c1&amp;link_color=8c1c13&amp;border_color=937771" width="552" height="167"><a href="https://laoil.itch.io/intro">Intro by Laoil/Louis</a></iframe>
 
 
 ### Teaching Game Dev
