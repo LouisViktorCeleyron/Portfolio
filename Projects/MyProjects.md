@@ -8,8 +8,11 @@ Here, you can find informations about my projects and what did I do on them!
 It's a **Solo project** I made to challenge my **system programing** skills in Unity and to experiment with a concept I had for a while: a turn based game where you combine elements every turn.
 
 [What I did](Intro/Intro.md)    
-[Itchio Page]()     
-[Project's Repository]()
+[Project's Repository](https://github.com/LouisViktorCeleyron/Intro/tree/main)  
+[Itchio Page](https://laoil.itch.io/intro)
+
+<iframe frameborder="0" src="https://itch.io/embed/3347455?bg_color=735751&amp;fg_color=e7d7c1&amp;link_color=8c1c13&amp;border_color=937771" width="552" height="167"><a href="https://laoil.itch.io/intro">Intro by Laoil/Louis</a></iframe>
+
 
 ### Teaching Game Dev
 
@@ -21,7 +24,7 @@ I was hired to be a **general programmer** on the early stage of the project to 
 
 [What I did](Melobot/Melobot.md)
 [Trailer](https://www.youtube.com/watch?v=2sHevzBmdKs)
-[Steam Page]()
+[Steam Page](https://store.steampowered.com/app/1937670/Melobot__A_Last_Song/)
 
 ### Tough Kookie
 > Tough Kookie is a **Beath Them'up** game made with **UE4** in **BP and C++** in **2019-2020**

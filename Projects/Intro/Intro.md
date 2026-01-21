@@ -181,7 +181,7 @@ Every consequence have a ***Call Consequence*** function that will be called by 
 
 > ***Call Consequence*** 1st determine who is the target (launcher or opponent), call the main consequence (dammage, status, etc...) then, if the consequence have CSE they are called, then feedbacks are called. 
 
-[The Consequence Script]()
+[The Consequence Script](https://github.com/LouisViktorCeleyron/Intro/blob/main/Assets/Scripts/Gameplay/Consequences/Consequence.cs)
 
 I then thought about the best way to use inheritance on this class to have the least amount of child classes: 
 
@@ -250,7 +250,7 @@ That's why I have methods called before and after the amount is changed, when th
 
 
 
-[The folder where you can find all status related scripts]()
+[The folder where you can find all status related scripts](https://github.com/LouisViktorCeleyron/Intro/tree/main/Assets/Scripts/Status)
 
 
 ### CSE
@@ -266,9 +266,9 @@ I had a problem to make the CSE as easy as possible to edit in the inspector, bu
 I'm pretty happy of how the CSE turned out: I can put as many as I want in my consequences and they are highly editable. 
 The only thing a bit annoying is to have to create a new class for every kind of CSE. 
 
-[The CseCollection Script]()
+[The CseCollection Script](https://github.com/LouisViktorCeleyron/Intro/blob/main/Assets/Scripts/Gameplay/Consequences/SpecialEffects/CseCollection.cs)
 
-[The ConsequenceSpecialEffect Script]()
+[The ConsequenceSpecialEffect Script](https://github.com/LouisViktorCeleyron/Intro/blob/main/Assets/Scripts/Gameplay/Consequences/SpecialEffects/ConsequenceSpecialEffect.cs)
 
 
 ## ✂ Editor
@@ -455,9 +455,9 @@ It's available in the build.
 
 You can find my game design doc, with every elements, combinaison, etc... [here](https://docs.google.com/spreadsheets/d/1h9zG16REBftnj_vJVHQ-YPOQ1HlRdiy30p6ICMqrrNc/edit?usp=sharing)
 
-[Link to download the prototype]()
+[Link to download the prototype](https://laoil.itch.io/intro)
 
-[Link to the project repo]()
+[Link to the project repo](https://github.com/LouisViktorCeleyron/Intro)
 
 [Link to the project documentation](https://docs.google.com/spreadsheets/d/1h9zG16REBftnj_vJVHQ-YPOQ1HlRdiy30p6ICMqrrNc/edit?usp=sharing)
 
