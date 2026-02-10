@@ -33,7 +33,7 @@ These last years I have been playing a lot of Deckbuilding Rogue like (Balatro, 
 
 The project I wanted to do for my students was the occasion to put this idea to the test. 
 
-![Deckbuilders](Pictures/IMG_Banner.png)
+![Deckbuilders](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Banner.png)
 
 My idea was to make a game where the player can launch action by combining elements. I started brainstorming and a lot of ideas came to my mind so I launched Unity and worked on the first prototype. 
 
@@ -111,12 +111,12 @@ Here's the stuffs I have been thinking about :
 
 # Screenshots
 
-![alt text](Pictures/IMG_NewRun.png)
-![alt text](Pictures/IMG_Battle.png)
-![alt text](Pictures/IMG_Inn.png)
-![alt text](Pictures/IMG_Map.png)
-![alt text](Pictures/IMG_Shop.png)
-![alt text](Pictures/GIF_Battle.gif)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_NewRun.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Battle.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Inn.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Map.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Shop.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/GIF_Battle.gif)
 
 # What I did
 
@@ -126,7 +126,7 @@ I wanted to make a system that allowed me to create a lot of content quickly. To
 
 You can find here a rough diagram of my code structure. 
 
-![Architecture](Pictures/IMG_Architecture.png)
+![Architecture](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Architecture.png)
 
 ### Elements
 
@@ -175,7 +175,7 @@ I created an abstract parent Consequence class that will be called by the *Fight
 - If the consequence have consequence special effect (or CSE) (Discarding elements, healing, drawing new elements, etc...) ([see bellow](#cse))
 - Some data stuffs (name, description, icon, etc...)
 
-![consequences](Pictures/IMG_Consequence.png)
+![consequences](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Consequence.png)
 
 Every consequence have a ***Call Consequence*** function that will be called by the *Fighting Instance*. This function has two parameters, both are *Fighting Instances* the launcher and their opponent.
 
