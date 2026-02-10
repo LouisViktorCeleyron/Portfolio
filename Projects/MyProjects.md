@@ -21,9 +21,9 @@ It's a **Solo project** I made to challenge my **system programing** skills in U
 
 I was hired to be a **general programmer** on the early stage of the project to clean the project and to help with gameplay integration.
 
-[What I did](Melobot/Melobot.md)
-[Trailer](https://www.youtube.com/watch?v=2sHevzBmdKs)
-[Steam Page](https://store.steampowered.com/app/1937670/Melobot__A_Last_Song/)
+[What I did](Melobot/Melobot.md)    
+[Trailer](https://www.youtube.com/watch?v=2sHevzBmdKs)  
+[Steam Page](https://store.steampowered.com/app/1937670/Melobot__A_Last_Song/)  
 
 ### Tough Kookie
 > Tough Kookie is a **Beath Them'up** game made with **UE4** in **BP and C++** in **2019-2020**
