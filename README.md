@@ -2,7 +2,7 @@
 
 That's me, hi! Nice to meet you :)
 
-I’m a **Game programmer and designer**. After working as a freelance for a few years, **since 2022** I teach Game Programming in Rennes, France. 
+I’m a **Game programmer and designer**. After working as a <p style="color:red">freelance</p> for a few years, **since 2022** I teach Game Programming in Rennes, France. 
 
 I started making games on RPG maker when I was 9, at 12 I continued my tests and my research on **game design and programming** with software like Multimedia Fusion or Construct. 
 Overall, I really enjoy discovering game engines and frameworks. Even if I didn't work proffesionnaly on all of them I dabbled with :
@@ -31,8 +31,8 @@ I love **learning** new material, in various fields, such as, of course, Game De
 ## Here you can find :
 
 - [My Resume/Cv](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/louisceleyron.pdf)
-- [A list of my skills](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Skills/MySkills.md)
-- [Documents abouts my projects and jobs](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)
+- [A list of my skills](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills)
+- [Documents abouts my projects and jobs](https://louisviktorceleyron.github.io/Portfolio/Skills/MyProject)
 
 
 ## Ways to contact me
