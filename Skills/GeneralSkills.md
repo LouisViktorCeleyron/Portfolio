@@ -15,7 +15,7 @@ I’m really curious about this and each time I discover a new software (even wh
 
 I like to extend software but I’m enjoying the conception of **external tools** too. I’m always enjoying the creation of a Level or Character Editor which can be put in the game later to allow player to create their own content. Most of my external tool returns a string/Json/Xml/anything serialized which can be put in the engine to make something cool.  
 
-[My level editor in Detox is an example of external tool](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Detox.md#what-i-did)
+[My level editor in Detox is an example of external tool](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Detox.md#what-i-did)
 
 
 ### **Creativity**
@@ -102,5 +102,5 @@ I’m not afraid of doing experiment and trying again and again until I understa
 
 ***
 
-[Get back to the skills page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Skills/MySkills.md)  
-[Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
+[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills.md)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)

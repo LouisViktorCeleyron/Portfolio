@@ -26,7 +26,7 @@ The user can set up the colors of the editor, but also the size of the canvas, a
 
 I use the **attribute feature** of C# to create a new kind of Editor: the node editor. With this initiative anyone can create new types of nodes for the editor. The intern used it to create more than 10 various type of node, from the classic “display a text” to more complexes one like “go to another dialogue.”    
 
-[Learn more about this by looking at my Unity skills](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Skills/UnitySkills.md#tool-design-in-unity)
+[Learn more about this by looking at my Unity skills](https://louisviktorceleyron.github.io/Portfolio/Skills/UnitySkills.md#tool-design-in-unity)
 
 We also create a **special tab in the project settings** of Unity for the project with a lot of various parameters to create such as global variables or characters for example.  
 
@@ -49,5 +49,5 @@ With my last work on the project I learnt how to work with tool designer intern 
 
 ***
 
-[Get back to the project page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)  
-[Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
+[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects.md)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)

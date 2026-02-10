@@ -83,5 +83,5 @@ I know the basics of the graphic workflow in UE4; I know how to set up a lightin
 
 ***
 
-[Get back to the skills page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Skills/MySkills.md)  
-[Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
+[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills.md)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)

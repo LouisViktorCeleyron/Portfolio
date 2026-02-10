@@ -48,5 +48,5 @@ I only worked a month on this project so I couldn't finish my Editor but I impl
 This internship pushed me to go **out of my comfort zone** of the Unity Editor to test new methods, new software and  new languages. I could test **new ways to create and implement tools** and I really enjoyed it. I also learned the constraint of a production when you can change projects from one day to another. 
 ​
 ***
-[Get back to the project page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)  
-[Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
+[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects.md)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)

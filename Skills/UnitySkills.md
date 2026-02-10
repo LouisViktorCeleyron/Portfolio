@@ -236,5 +236,5 @@ I learn how to use the **HLSL Shading language** with Unity, but I mainly used i
 
 ***
 
-[Get back to the skills page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Skills/MySkills.md)  
-[Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
+[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills.md)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)
