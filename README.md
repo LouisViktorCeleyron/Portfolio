@@ -30,7 +30,7 @@ I love **learning** new material, in various fields, such as, of course, Game De
 
 ## Here you can find :
 
-- [My Resume/Cv](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/louisceleyron.pdf)
+- [My Resume/Cv](https://louisviktorceleyron.github.io/Portfolio/Documents/louisceleyron.pdf)
 - [A list of my skills](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills)
 - [Documents abouts my projects and jobs](https://louisviktorceleyron.github.io/Portfolio/Skills/MyProject)
 

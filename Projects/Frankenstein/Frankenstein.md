@@ -6,7 +6,7 @@
 >Team of 10  
 >Debugging and Intergration  
 
-![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Frankenstein/Pictures/Banner.png)
+![Banner](Pictures/Banner.png)
 
 
 ## ​Context
@@ -26,7 +26,7 @@ A few programmers worked on this project before me and there was no cohesion so
 
 
 ***The tool I made to find PlayMakerReferences***  
-![The tool I made to find playMaker References](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Frankenstein/Pictures/TriPlayMaker.png)
+![The tool I made to find playMaker References](Pictures/TriPlayMaker.png)
 
 
 ## What I Learned
@@ -42,5 +42,5 @@ With this project I learned how important it is to have a **well organized proje
 
 ***
 
-[Get back to the project page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/MyProjects.md)  
-[Get back to the main page](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/README.md)
+[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

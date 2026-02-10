@@ -463,5 +463,5 @@ You can find my game design doc, with every elements, combinaison, etc... [here]
 
 ***
 
-[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects.md)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)
+[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

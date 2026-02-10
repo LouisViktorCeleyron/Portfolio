@@ -6,7 +6,7 @@ I also have the occasion of experiencing miscellaneous themes and mechanics: tac
 In 2019 I passed the **Unity Certified Associate test**.   
 Unity is a fun engine I love using and learning. It gave me the love of the programming and tool design.   
 
-![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/Banners/UnityBanner.png)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/Banners/UnityBanner.png)
 
 ***
 
@@ -15,10 +15,10 @@ The tool design in Unity is my favourite side of the software. I did a lot of re
 I use the **UnityEditor library** to conceive **new windows, Property Drawer, and Inspector** that fits to the project I’m working on. I like to set up easy ways to edit list or to modify a behaviour for example.   
 
 **Example of a Unity Plug-In I design: A dialogue Editor**  
-![Dialogue Editor](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/DialogueEditor.png)  
+![Dialogue Editor](https://louisviktorceleyron.github.io/Portfolio/Projects/Volarela/Pictures/DialogueEditor.png)  
 
 **Example of a Unity Inspector Extention: A Behaviour that launch event when the object tigger a collision**  
-![On Trigger PlusPlus](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/TrigerPlus.png)  
+![On Trigger PlusPlus](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/TrigerPlus.png)  
 
 
 I have the ability to conceive new Settings and Player preferences to smooth the tweaking of global value.   
@@ -165,7 +165,7 @@ public class StartElementEditor : NodeEditor
 
 
 ```
-![Dialogue Editor](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/DialogueEditor_02.png)  
+![Dialogue Editor](https://louisviktorceleyron.github.io/Portfolio/Projects/Volarela/Pictures/DialogueEditor_02.png)  
 
 **Example of a static function I coded to simplyfi the utilsation of serialized property in Unity**
 ```csharp
@@ -201,7 +201,7 @@ public class StartElementEditor : NodeEditor
 
 	}
 ```
-![Attribute Property](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/AttributeProperty.png)  
+![Attribute Property](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/AttributeProperty.png)  
 
 ***
 
@@ -210,10 +210,10 @@ I very familiar with the way the UI system of unity and all tools provided by it
 I did a lot of menus and HUD and I know how to add theses at the gameplay part. 
 
 **Example of a menu I did for a prototype in 2018**  
-![Brood Menu](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/UI_002.gif)  
+![Brood Menu](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/UI_002.gif)  
 
 **Example of an Extention of the Unity UI System I code to launch event when the button is overlapped**  
-![Button but Better](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/UI_001.png)  
+![Button but Better](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/UI_001.png)  
 
 ***
 
@@ -224,7 +224,7 @@ I am used to State Machine Behaviour’s workflow and I can program scripts to a
 I Learn, with my internship at La Belle Games (on Detox and Frankenstein), how to uses theses skills on a professional project. 
 
 [On Detox I used the Animator to create a State machine to always know in which position is the character]()
-[The Detox State Machine](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Gifs/StateMachine.gif)
+[The Detox State Machine](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Gifs/StateMachine.gif)
 
 ***
 
@@ -232,9 +232,9 @@ I Learn, with my internship at La Belle Games (on Detox and Frankenstein), how t
 I learn how to use the **HLSL Shading language** with Unity, but I mainly used it on 2D texture. I used it for in-game UI and indications. I have the ability to match it with a C# script to have a dynamic shader with effect easily tweakable.
 
 **In this prototype I made the eggs indications and the life and stamina on HLSL**  
-![Eggs animation and stamina](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/Shader_001.gif)  
+![Eggs animation and stamina](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/Shader_001.gif)  
 
 ***
 
-[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills.md)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)
+[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

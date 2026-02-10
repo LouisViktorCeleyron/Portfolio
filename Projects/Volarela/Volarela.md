@@ -5,7 +5,7 @@
 > Team of 7  
 > Tool Designer  
  
-![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/Banner.png)
+![Banner](Pictures/Banner.png)
 
 Les Chroniques de Volarela is a point'n'click educational game that targets 8 to 12 years-old players. On this game the player incarnates a detective in a fantastic world composed of floating islands, and it must use physical objects provided with the game to solve puzzles.  
 I first worked a little bit on the first prototype of the game in the summer of 2017. Then the studio contacted me back for a longer mission in the summer 2018. That project was my **first freelance job**. Then in 2020 they got back to me again.   
@@ -21,8 +21,8 @@ I design a **Nodal Dialogue Editor** with a lot of preset nodes that allows the 
 The user can set up the colors of the editor, but also the size of the canvas, and the editor has a lot of little features and shortcuts like a mini map for example.   
 
 **The node editor**  
-![Parameters](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/OpenDialogue.png)  
-![Node Editor](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/DialogueEditor.png)
+![Parameters](Pictures/OpenDialogue.png)  
+![Node Editor](Pictures/DialogueEditor.png)
 
 I use the **attribute feature** of C# to create a new kind of Editor: the node editor. With this initiative anyone can create new types of nodes for the editor. The intern used it to create more than 10 various type of node, from the classic “display a text” to more complexes one like “go to another dialogue.”    
 
@@ -31,7 +31,7 @@ I use the **attribute feature** of C# to create a new kind of Editor: the node e
 We also create a **special tab in the project settings** of Unity for the project with a lot of various parameters to create such as global variables or characters for example.  
 
 **Example of add-on on the project settings window**  
-![Parameters](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Volarela/Pictures/ProjectSettings.png)
+![Parameters](Pictures/ProjectSettings.png)
 
 
 ## What I learn
@@ -49,5 +49,5 @@ With my last work on the project I learnt how to work with tool designer intern 
 
 ***
 
-[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects.md)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)
+[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

@@ -7,7 +7,7 @@ Here, you can find informations about my projects and what did I do on them!
 
 It's a **Solo project** I made to challenge my **system programing** skills in Unity and to experiment with a concept I had for a while: a turn based game where you combine elements every turn.
 
-[What I did](https://louisviktorceleyron.github.io/Portfolio/Intro/Intro.md)    
+[What I did](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Intro)    
 [Project's Repository](https://github.com/LouisViktorCeleyron/Intro/tree/main)  
 [Itchio Page](https://laoil.itch.io/intro)
 
@@ -21,7 +21,7 @@ It's a **Solo project** I made to challenge my **system programing** skills in U
 
 I was hired to be a **general programmer** on the early stage of the project to clean the project and to help with gameplay integration.
 
-[What I did](https://louisviktorceleyron.github.io/Portfolio/Melobot/Melobot.md)    
+[What I did](https://louisviktorceleyron.github.io/Portfolio/Projects/Melobot/Melobot)    
 [Trailer](https://www.youtube.com/watch?v=2sHevzBmdKs)  
 [Steam Page](https://store.steampowered.com/app/1937670/Melobot__A_Last_Song/)  
 
@@ -31,7 +31,7 @@ I was hired to be a **general programmer** on the early stage of the project to 
 I mainly was the **head programmer** and the **tool designer** of this project, but I did other tasks too.  
 It was our **graduation project**, and we worked more than a year on it. So I had the time to do a lot of stuffs for this project!   
 
-[What I did on this groovy game](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/ToughKookie.md)  
+[What I did on this groovy game](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/ToughKookie)  
 [Trailer](https://www.youtube.com/watch?v=OYH15Qfyvc4)  
 [A Full Playtrough](https://www.youtube.com/watch?v=TI5NTqJ_x2w)  
 [Download the game and have fun!](https://tough-kookie.itch.io/tough-kookie)
@@ -44,7 +44,7 @@ I was hired as a **Tool Designer** by CrossQuest Studio.
 My main task was to design a **dialogue editor** and Unity environement adapted to this project.  
 The last time I worked for them I was in charge of an intern. It was a pleasure to teach him all about tool design.  
 
-[What I did](https://louisviktorceleyron.github.io/Portfolio/Projects/Volarela/Volarela.md)  
+[What I did](https://louisviktorceleyron.github.io/Portfolio/Projects/Volarela/Volarela)  
 [Trailer (in french)](https://www.youtube.com/watch?v=JaBq8_KsXBI)  
 [WebSite (still in french)](https://www.volarela.com/)  
 
@@ -54,7 +54,7 @@ The last time I worked for them I was in charge of an intern. It was a pleasure 
 We started the game nearly from scratch on Unity 3D and I worked as the only programmer. I work a little more than a month on this game.  
 I programmed the base system of the game but my main task was to create a **Level Editor for unity but outside of Unity**.
 
-[What I did](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Detox.md)
+[What I did](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Detox)
 
 ### The Wanderer: Frankenstein's Creature
 >The Wanderer: Frankenstein's Creature is a **Narative Game**. I worked on the **PC** version of the game. It is the other game on which I work at my **intership** at **La Belle Game** in **2019**. It is made with **Unity 3D** and it is produced by **Arte**. 
@@ -63,7 +63,7 @@ I join the team of this game barely at the end of the project.
 My tasks on were principally  **debug** or creation of **debugging tools**.  
 I mostly worked with the animator and the **PlayMaker Plug-In** and created extentions for it.
 
-[What I did](https://louisviktorceleyron.github.io/Portfolio/Projects/Frankenstein/Frankenstein.md)  
+[What I did](https://louisviktorceleyron.github.io/Portfolio/Projects/Frankenstein/Frankenstein)  
 [Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)   
 [Website](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)   
 [Steam Page](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)  
@@ -71,6 +71,6 @@ I mostly worked with the animator and the **PlayMaker Plug-In** and created exte
 ## Other
 
 I hope it was interesting and you learn a little more about my behaviour in teams! 
-If you want you can learn more about my skills [Here!]() 
+If you want you can learn more about my skills [Here!](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills) 
 
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

@@ -2,7 +2,7 @@
 
 I have a master’s degree in Video Games Programming and Game Design. I’m defining myself as a creative programmer but for more precision there is a little list of what I can do and my fields of specialization!   
 
-![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/Banners/GeneralBanner.png)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/Banners/GeneralBanner.png)
 
 
 ***
@@ -30,8 +30,8 @@ Creativity is the most important thing to me, and I want to create ways for ever
 I am very comfortable with the **systemic Gameplay programming** like for RPG or games with huge databases. But I enjoy working on any type of gamplay. I know how to create behaviour and scriptable object in C# for Unity and to create flexible components and actors for Unreal Engine.  
 My way of doing Gameplay Programming is to quickly **prototype** something to test then to restart it from scratch, knowing where I’m going, to make something clean.  
 
-![Example of 2D Gameplay](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/Detox/Gifs/DetoxLevelExecution+3C.gif)  
-![Example of 3D Gameplay](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Gifs/UseObject.gif)
+![Example of 2D Gameplay](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Gifs/DetoxLevelExecution+3C.gif)  
+![Example of 3D Gameplay](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Gifs/UseObject.gif)
 
 
 ### **Hierarchy and architectures**
@@ -102,5 +102,5 @@ I’m not afraid of doing experiment and trying again and again until I understa
 
 ***
 
-[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills.md)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)
+[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

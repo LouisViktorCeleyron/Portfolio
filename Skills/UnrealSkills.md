@@ -5,7 +5,7 @@ I discovered a lot of interesting features and workflow on the software and I to
 I’ve started using Unreal Engine using only **Blueprints** but in 2019 I’ve started using **C++**! I love the littles features of the softs like the databases which allows me to create a lot of content quickly once I’ve coded my main system.  
 Unreal Engine 4 was a little hard to understand at first but now I had a lot of lessons about it and a lot of time to experiment it. It’s really a lot of fun to use and I love testing crazy ideas on it!  
 
-![Banner](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/Banners/UnrealBanner.png)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/Banners/UnrealBanner.png)
 
 ***
 
@@ -40,7 +40,7 @@ void UTKCPPLibrary::AttatchActorToPawn(AActor* actorTarget, APawn* pawnTarget)
 ```
 
 **And it's result in the Editor**  
-![Attribute Property](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Documents/Pictures/OtherExamples/BP_Example.png)  
+![Attribute Property](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/BP_Example.png)  
 
 ***
 
@@ -52,12 +52,12 @@ I can use the **Bluetility system** to establishes an easier way to work; for ex
 **Example of my utilisation of the Bluetility**
 
 *My colleagues have a sheet to fill on Excel or google sheets*  
-![Sheet](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/DatatableInput.png)
+![Sheet](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Pictures/DatatableInput.png)
 
 *I just have to press this button to import the file in UE*  
-![Button](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/ImportDialogueButton.png)  
+![Button](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Pictures/ImportDialogueButton.png)  
 
-![OutputInUE](https://github.com/LouisViktorCeleyron/Portfolio/blob/master/Projects/ToughKookie/Pictures/DatatableOutput.png)  
+![OutputInUE](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Pictures/DatatableOutput.png)  
 
 I also set up preset of actors to allow designers and people who knows just the basics of blueprint to test features or implement easily new ideas.
 I can too, create **macro and function library** to simplify blueprint utilization and factorize methods or code portion we might use a lot to avoid copy/past.  
@@ -83,5 +83,5 @@ I know the basics of the graphic workflow in UE4; I know how to set up a lightin
 
 ***
 
-[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills.md)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README.md)
+[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills)  
+[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)
