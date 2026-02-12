@@ -1,3 +1,26 @@
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #e4ae4b !default;
+$header-bg-color-secondary: #99152b !default;
+
+// Text
+$section-headings-color: #c56d1a !default;
+$body-text-color: #716061 !default;
+$body-link-color: #b81e1e !default;
+$blockquote-text-color: #819198 !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #827456 !default;
+
+// Borders
+$border-color: #dce6f0 !default;
+$table-border-color: #e9ebec !default;
+$hr-border-color: #eff0f1 !default;
 ---
 ---
 // Breakpoints
@@ -27,3 +50,27 @@ $hr-border-color: #eff0f1 !default;
 @import "normalize";
 @import "rouge-github";
 @import 'cayman';
+
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #e4ae4b !default;
+$header-bg-color-secondary: #99152b !default;
+
+// Text
+$section-headings-color: #c56d1a !default;
+$body-text-color: #716061 !default;
+$body-link-color: #b81e1e !default;
+$blockquote-text-color: #819198 !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #827456 !default;
+
+// Borders
+$border-color: #dce6f0 !default;
+$table-border-color: #e9ebec !default;
+$hr-border-color: #eff0f1 !default;
