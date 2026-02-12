@@ -12,6 +12,9 @@ collections:
   posts:
     output          : true
 
+github:
+  is_project_page: false
+
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
@@ -58,6 +61,8 @@ liquid:
   error_mode        : warn
   strict_filters    : false
   strict_variables  : false
+
+title: "Louis Celeyron"
 
 # Markdown Processors
 kramdown:
