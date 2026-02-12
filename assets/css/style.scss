@@ -1,7 +1,8 @@
 ---
 ---
-
-@import "{{ site.theme }}";
+@import "normalize";
+@import "rouge-github";
+@import 'cayman';
 
 .highlight table td {
     padding: 5px;
