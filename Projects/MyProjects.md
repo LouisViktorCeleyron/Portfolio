@@ -1,3 +1,6 @@
+layout:page
+title: "PROJECTS"
+
 # My Projects
 
 Here, you can find informations about my projects and what did I do on them! 
@@ -67,10 +70,3 @@ I mostly worked with the animator and the **PlayMaker Plug-In** and created exte
 [Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)   
 [Website](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)   
 [Steam Page](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)  
-
-## Other
-
-I hope it was interesting and you learn a little more about my behaviour in teams! 
-If you want you can learn more about my skills [Here!](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills) 
-
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

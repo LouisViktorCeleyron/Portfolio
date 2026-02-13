@@ -100,7 +100,4 @@ And I’m always trying to think about the needs of my coworkers and the things 
 I cannot get tired of **learning new stuffs**: softs, technology, techniques, etc… I learn fast: I’m resourceful, curious, and I’m always in the quest of understanding the tools I’m using.  
 I’m not afraid of doing experiment and trying again and again until I understand and master things!  
 
-***
 
-[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

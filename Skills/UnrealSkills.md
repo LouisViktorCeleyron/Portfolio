@@ -81,7 +81,3 @@ I can use all the animation-related tool in Unreal Engine 4: **AnimBP, AnimMonta
 ### **Basic Graphic Workflow**
 I know the basics of the graphic workflow in UE4; I know how to set up a lighting and a post process. I also can create some **shaders**.
 
-***
-
-[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

@@ -6,7 +6,7 @@
 >Team of 10  
 >Debugging and Intergration  
 
-![Banner](Pictures/Banner.png)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Projects/Frankenstein/Pictures/Banner.png)
 
 
 ## ​Context
@@ -26,7 +26,7 @@ A few programmers worked on this project before me and there was no cohesion so
 
 
 ***The tool I made to find PlayMakerReferences***  
-![The tool I made to find playMaker References](Pictures/TriPlayMaker.png)
+![The tool I made to find playMaker References](https://louisviktorceleyron.github.io/Portfolio/Projects/Frankenstein/Pictures/TriPlayMaker.png)
 
 
 ## What I Learned
@@ -39,8 +39,3 @@ With this project I learned how important it is to have a **well organized proje
 [Website](http://www.labellegames.com/projects/frankenstein-and-the-wanderer)    
 [Trailer](https://www.youtube.com/watch?v=82ilW4ViQQU)   
 [Steam Page of the game](https://store.steampowered.com/app/966670/The_Wanderer_Frankensteins_Creature/)  
-
-***
-
-[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

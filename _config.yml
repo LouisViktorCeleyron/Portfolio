@@ -11,6 +11,10 @@ sass:
 collections:
   posts:
     output          : true
+github:
+  is_project_page: false
+
+text-align: .text-justify
 
 # Handling Reading
 safe                : false
@@ -59,6 +63,8 @@ liquid:
   strict_filters    : false
   strict_variables  : false
 
+title: "Louis Celeyron"
+
 # Markdown Processors
 kramdown:
   auto_ids          : true
@@ -70,8 +76,15 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
+
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-  # Modifications Louis
 theme: jekyll-theme-cayman
+
+# title: Minimal theme
+# logo: /assets/img/logo.png
+# description: Minimal is a theme for GitHub Pages.
+# show_downloads: true
+# google_analytics:
+# theme: jekyll-theme-minimal
