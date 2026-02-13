@@ -1,3 +1,6 @@
+layout:page
+title: "PROJECTS"
+
 # My Projects
 
 Here, you can find informations about my projects and what did I do on them! 
