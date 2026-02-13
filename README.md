@@ -28,6 +28,8 @@ I also like organizing events. I was on my school student council for 2 year an
 
 I love **learning** new material, in various fields, such as, of course, Game Design and Game Programming, but also in science, zoology, cooking, cinema, and more!
 
+**I do not use generative AI in my projects or in my every day life**
+
 ## Here you can find :
 
 - [My Resume/Cv](https://louisviktorceleyron.github.io/Portfolio/Documents/louisceleyron.pdf)

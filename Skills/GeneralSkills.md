@@ -34,11 +34,15 @@ My way of doing Gameplay Programming is to quickly **prototype** something to te
 ![Example of 3D Gameplay](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Gifs/UseObject.gif)
 
 
+
 ### **Hierarchy and architectures**
 
 I’m very fond of a **clean hierarchy and architecture**, that’s why I always take the time to think about what I’m going to do in advance and how I’m going to do it. Or I prototype first then I restart the project with an architecture in mind.  
-I use very often a child/parent class system with interfaces, structures etc… and I factorize a lot. I don’t like to use copy/past and I have the tendency to **factorize** each time a code portion is appearing more than once.
-I also used **design patterns** to improve my way of programming.  
+I use very often a child/parent class system with interfaces, structures etc… and I factorize a lot. I don’t like to use copy/past and I have the tendency to **factorize** each time a code portion is appearing more than once.   
+
+I also use **design patterns** to improve my way of programming. I'm espeacially fond of the composite pattern. 
+
+I'm used to program for **Mobile and PC** but I'm not against trying other platforms. 
 
 ### **Mathematics skills**
 I had the opportunity to exercise my mathematics skills on my different projects. I have algebra and 3D math skills, I’m familiar with the utilization of mathematic function and I’m used to 2D and 3D vector.
@@ -55,6 +59,7 @@ C++ is a deep language with a lot of particularities, but I’m enjoying each st
 
 ### **Other Languages**
 I practised these languages long time ago, and I’m practicing them when I have the time but way less often than C# and C++. I did some **Ruby, JavaScripts and Python.**  
+
 
 ***
 
@@ -99,5 +104,9 @@ And I’m always trying to think about the needs of my coworkers and the things 
 ### **Learning**
 I cannot get tired of **learning new stuffs**: softs, technology, techniques, etc… I learn fast: I’m resourceful, curious, and I’m always in the quest of understanding the tools I’m using.  
 I’m not afraid of doing experiment and trying again and again until I understand and master things!  
+
+### **Teaching**
+I worked as a teacher for 5ish years. I'm very used to simplify my knowledge and to make easy to understand presentations. 
+
 
 
