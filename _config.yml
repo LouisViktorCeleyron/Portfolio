@@ -11,9 +11,10 @@ sass:
 collections:
   posts:
     output          : true
-
 github:
   is_project_page: false
+
+text-align: .text-justify
 
 # Handling Reading
 safe                : false

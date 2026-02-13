@@ -234,7 +234,3 @@ I learn how to use the **HLSL Shading language** with Unity, but I mainly used i
 **In this prototype I made the eggs indications and the life and stamina on HLSL**  
 ![Eggs animation and stamina](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/Shader_001.gif)  
 
-***
-
-[Get back to the skills page](https://louisviktorceleyron.github.io/Portfolio/Skills/MySkills)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

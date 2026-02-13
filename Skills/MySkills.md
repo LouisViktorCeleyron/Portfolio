@@ -8,6 +8,3 @@ Of course a lot of these are Hard skills but I always use my knowledges in Game 
 [My Unreal Engine Skills](https://louisviktorceleyron.github.io/Portfolio/Skills/UnrealSkills)  
 [My Unity Skills ](https://louisviktorceleyron.github.io/Portfolio/Skills/UnitySkills)  
 
->Oh! Also, I can recite the full script of Back to the Future in 2 languages. (I know that’s irrelevant, but I love this movie)
-
-[Get back to the main pages](https://louisviktorceleyron.github.io/Portfolio/README)

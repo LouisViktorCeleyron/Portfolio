@@ -5,7 +5,7 @@
 > Team of 8  
 > Head Programmer, Gameplay and System Programmer, Tool Designer  
 
-![Banner](Pictures/Banner.png)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Pictures/Banner.png)
 
   
 ## Context
@@ -47,10 +47,10 @@ I used the hierarchy to create a system of interactable object usable in all thr
 I also programmed others features as the main title or a dialogue system and a lot of tiny UX things to make the game groovier.
 
 ​***My prototype of the Level Editing feature***  
-![Banner](Gifs/TK_Stage_SetUp.gif)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Gifs/TK_Stage_SetUp.gif)
 
 ​***When she interacts with a couch Tessa push-it againts her enemies***  
-![Banner](Pictures/TessaPush.png)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Pictures/TessaPush.png)
 
 ### **Tool Designer**
 I created a spline tool that allow the level designers and level builders to place walls and barriers with the good collision preset.
@@ -61,7 +61,7 @@ I created **generic function library and macro library** to simplify the workflo
 
 
 ​***Example of add-on I made for the UI in the project***  
-![Banner](Pictures/UI_Modification.png)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Projects/ToughKookie/Pictures/UI_Modification.png)
 ​
 
 
@@ -83,8 +83,3 @@ I also deepen my **knowledges about UE4**, working on a long project with this s
 [Trailer](https://www.youtube.com/watch?v=OYH15Qfyvc4)  
 [A Full Playtrough](https://www.youtube.com/watch?v=TI5NTqJ_x2w)  
 [Itch.io Page](https://tough-kookie.itch.io/tough-kookie)  
-
-***
-
-[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

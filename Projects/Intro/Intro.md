@@ -33,7 +33,7 @@ These last years I have been playing a lot of Deckbuilding Rogue like (Balatro, 
 
 The project I wanted to do for my students was the occasion to put this idea to the test. 
 
-![Deckbuilders](Pictures/IMG_Banner.png)
+![Deckbuilders](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Banner.png)
 
 My idea was to make a game where the player can launch action by combining elements. I started brainstorming and a lot of ideas came to my mind so I launched Unity and worked on the first prototype. 
 
@@ -111,12 +111,12 @@ Here's the stuffs I have been thinking about :
 
 # Screenshots
 
-![alt text](Pictures/IMG_NewRun.png)
-![alt text](Pictures/IMG_Battle.png)
-![alt text](Pictures/IMG_Inn.png)
-![alt text](Pictures/IMG_Map.png)
-![alt text](Pictures/IMG_Shop.png)
-![alt text](Pictures/GIF_Battle.gif)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_NewRun.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Battle.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Inn.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Map.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Shop.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/GIF_Battle.gif)
 
 # What I did
 
@@ -126,7 +126,7 @@ I wanted to make a system that allowed me to create a lot of content quickly. To
 
 You can find here a rough diagram of my code structure. 
 
-![Architecture](Pictures/IMG_Architecture.png)
+![Architecture](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Architecture.png)
 
 ### Elements
 
@@ -175,7 +175,7 @@ I created an abstract parent Consequence class that will be called by the *Fight
 - If the consequence have consequence special effect (or CSE) (Discarding elements, healing, drawing new elements, etc...) ([see bellow](#cse))
 - Some data stuffs (name, description, icon, etc...)
 
-![consequences](Pictures/IMG_Consequence.png)
+![consequences](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Consequence.png)
 
 Every consequence have a ***Call Consequence*** function that will be called by the *Fighting Instance*. This function has two parameters, both are *Fighting Instances* the launcher and their opponent.
 
@@ -259,7 +259,7 @@ CSE are extra effect that could be called by any consequences, to avoid an inher
 
 I created a class called *ConsequenceSpecialEffect*, i created a child class for every type of CSE I needed, and I created a *CseCollection* to avoid making the Consequence Script too messy. 
 
-![alt text](Pictures/IMG_CSE.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_CSE.png)
 
 I had a problem to make the CSE as easy as possible to edit in the inspector, but I talk a bit more about this issue [here](#editor)
 
@@ -283,7 +283,7 @@ This way I can add and edit as much CSE as I want and I have a fully in editor d
 
 The hard thing was to detect all the class that inherits from CSE and made them as a popup.     
 
-![CSE_Popup](Pictures/IMG_CSE_Popup.png)
+![CSE_Popup](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_CSE_Popup.png)
 
 The way I do that is simple : I use the **GetAllSubclassOf** method to get all subclass of CSE. 
 
@@ -328,7 +328,7 @@ You can find the CSEEditor Code [here](link)
 
 A tiny script I did that came REALLY handy was the **Colorizing Debug Log**. It does exactly what it says and it allow me to filter my logs.
 
-![alt text](Pictures/IMG_ColorizeDebug.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_ColorizeDebug.png)
 
 ```cs
 public static class ColorizeExtention 
@@ -352,7 +352,7 @@ I'll probably add this script to my toolbox!
 
 I'm proud of the way I generate description on my actions.
 
-![alt text](Pictures/IMG_Description.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Description.png)
 
 It's a simple **ToString()** method but I use a sort of Russian Doll hierarchy of descriptions :
 
@@ -416,7 +416,7 @@ The battle system is managed thanks to the **BattleManager** class. I use a coro
 
 To display my status in UI i added every status icon to my battle UI. 
 
-![alt text](Pictures/IMG_StatusIcons.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_StatusIcons.png)
 
 Then in the status parent class I have a Status enum virtual property that every subclass implement.
 
@@ -439,13 +439,13 @@ public override string GetDescription()
 ```
 > *The poison status GetDescription*
 
-![alt text](Pictures/IMG_StatusDescription.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_StatusDescription.png)
 
 ### Debugger
 
 I made an in-game debugger that can be accessed with CTRL+E that allow you to draw any element from the game, Buff your character or heal them. 
 
-![alt text](Pictures/IMG_Debugger.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Pictures/IMG_Debugger.png)
 
 It's really handy when I have to try new consequences or to go through difficult battle when I have to test something else. 
 
@@ -461,7 +461,3 @@ You can find my game design doc, with every elements, combinaison, etc... [here]
 
 [Link to the project documentation](https://docs.google.com/spreadsheets/d/1h9zG16REBftnj_vJVHQ-YPOQ1HlRdiy30p6ICMqrrNc/edit?usp=sharing)
 
-***
-
-[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)

@@ -6,7 +6,7 @@
 > Team of 2  
 > Tool Design and Gameplay Programming  
 
-![Banner](Pictures/Banner.png)
+![Banner](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Pictures/Banner.png)
 
 
 ## Context
@@ -29,7 +29,7 @@ I only worked a month on this project so I couldn't finish my Editor but I impl
 
 
 ***Creation of a Level***  
-![The Level Editor Executable](Gifs/DetoxLevelCreation.gif)     
+![The Level Editor Executable](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Gifs/DetoxLevelCreation.gif)     
 
 ***The Level Serialization Code***  
 ```c++
@@ -37,16 +37,12 @@ I only worked a month on this project so I couldn't finish my Editor but I impl
 ```
 
 ***And It's result in game!***  
-![And It's result](Gifs/DetoxLevelExecution.gif)
+![And It's result](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Gifs/DetoxLevelExecution.gif)
 
 
 ***Exemple of behaviour I created for the 3C of the Game***  
-![Behaviour I created for the 3C](Pictures/ExempleOfInspector.png)
+![Behaviour I created for the 3C](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Pictures/ExempleOfInspector.png)
 
 ## What I Learned
 
 This internship pushed me to go **out of my comfort zone** of the Unity Editor to test new methods, new software and  new languages. I could test **new ways to create and implement tools** and I really enjoyed it. I also learned the constraint of a production when you can change projects from one day to another. 
-​
-***
-[Get back to the project page](https://louisviktorceleyron.github.io/Portfolio/Projects/MyProjects)  
-[Get back to the main page](https://louisviktorceleyron.github.io/Portfolio/README)
