@@ -16,9 +16,9 @@ Some of the project includes :
 
 > A **Wario Ware like**:  This project was a way to present Unity to a class. They could focus on one or two mini game and at the end I grouped everything so they could have a finished product for the whole class. This way they also learned how to work with constraint *(I made function for the score and the scene management to facilitate the merge)*
 
->
-
->
+> An **Iddle Game**: Another promotion started Unity with this project. This way I could teach them how to use the **UI and scriptable object** to make a content focus project. I also used this opportunity to teach them how to work on a mobile project.
+ 
+> An **Horor 1st person**: This exercice was done to teach them how to use Unreal and to  
 // Each level has to learn different stuff 
 // Some students are good some are not
 // 

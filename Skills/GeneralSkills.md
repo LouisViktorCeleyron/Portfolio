@@ -100,13 +100,14 @@ I’m used to work and **communicate with Designer, Prgrammers, Artist, and Prod
 I was an intern and I had an intern, so I have the ability to communicate with everyone in a hierarchy. 
 And I’m always trying to think about the needs of my coworkers and the things I can do to improve our ways of working all together.  
 
+### **Teaching**
+I worked as a teacher for 5ish years. I'm very used to simplify notions. I like passing informations and 
+
 
 ### **Learning**
 I cannot get tired of **learning new stuffs**: softs, technology, techniques, etc… I learn fast: I’m resourceful, curious, and I’m always in the quest of understanding the tools I’m using.  
 I’m not afraid of doing experiment and trying again and again until I understand and master things!  
 
-### **Teaching**
-I worked as a teacher for 5ish years. I'm very used to simplify my knowledge and to make easy to understand presentations. 
 
 
 
