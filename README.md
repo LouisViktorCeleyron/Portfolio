@@ -28,7 +28,7 @@ I also like organizing events. I was on my school student council for 2 year an
 
 I love **learning** new material, in various fields, such as, of course, Game Design and Game Programming, but also in science, zoology, cooking, cinema, and more!
 
-<c color="red">**I do not use generative AI in my projects or in my every day life**</c>
+**I do not use generative AI in my projects or in my every day life**
 
 ## Here you can find :
 
