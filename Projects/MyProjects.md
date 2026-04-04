@@ -23,7 +23,7 @@ I was hired to be a **general programmer** on the early stage of the project to 
 ### Game Jams
 Once or twice a year I organize or participate to a Game Jam. Usualy I try to join little group to do something small. 
 
-[More about my game jam projects](https://louisviktorceleyron.github.io/Portfolio/Projects/GameJams/Jams)    
+[More about my game jam projects](https://louisviktorceleyron.github.io/Portfolio/Projects/Jams/Jams)    
 
 ---
 
