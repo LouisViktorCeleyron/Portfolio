@@ -19,7 +19,7 @@ This jam theme was Mask.
 Parking is a chaotic arcade Twin-Stick shooter. Every player controls a medieval jester that must shoot the other one to be the last one stanting in the King court.  
 The twist is, every player has a random mask that will alter their shooting and movements. 
 
-![alt text](image.png)
+![alt text](https://louisviktorceleyron.github.io/Portfolio/Projects/Jams/Pics/1v1.png)
 
 ### What I did
 
