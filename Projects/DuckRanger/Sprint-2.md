@@ -1,7 +1,4 @@
-# Sprint 2 -
-
-> Start : 14/06/2026  
-> End : 28/06/2026
+# Sprint 2 
 
 After few month without looking at the project for personal reasons I slowly noted some ideas until I decided to fully get back on it. 
 
@@ -14,7 +11,7 @@ I'm also not sure of which structure is the best to support the capture gameplay
 ### Producing
 - Make a Moscow for the project
 - Put this devlog and the project on my website
-- Decide a clear objective/project end  
+- Decide a clear objective/project end
 - Godot R&D
 
 ### Design 
