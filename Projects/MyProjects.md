@@ -9,14 +9,6 @@ It's a **Solo project** I made to challenge my **system programing** skills in U
 
 [More about this project](https://louisviktorceleyron.github.io/Portfolio/Projects/Intro/Intro)
 
----    
-
-### Melobot: A Last Song
-> I worked as a freelance for **Anomalie Studio** on their 1st project: a **Rythm and Puzzle game** made in **Unity C#**. I worked with them from **November 2020 to March 2021**
-
-I was hired to be a **general programmer** on the early stage of the project to clean the project and to help with gameplay integration.
-
-[More about this project](https://louisviktorceleyron.github.io/Portfolio/Projects/Melobot/Melobot)    
 
 ---
 
@@ -34,6 +26,15 @@ Once or twice a year I organize or participate to a Game Jam. Usualy I try to jo
 I loved teaching and working as a consultant on student's projects. I had the occasion to work with students in 1st, 2cnd and 3rd year. 
 
 [Learn more about this job](https://louisviktorceleyron.github.io/Portfolio/Projects/Teacher/Teaching)
+
+---    
+
+### Melobot: A Last Song
+> I worked as a freelance for **Anomalie Studio** on their 1st project: a **Rythm and Puzzle game** made in **Unity C#**. I worked with them from **November 2020 to March 2021**
+
+I was hired to be a **general programmer** on the early stage of the project to clean the project and to help with gameplay integration.
+
+[More about this project](https://louisviktorceleyron.github.io/Portfolio/Projects/Melobot/Melobot)    
 
 ---
 
