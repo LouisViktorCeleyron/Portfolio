@@ -33,8 +33,8 @@ Some of the project includes :
 ## Project Reviewing
 
 
+## What I learned 
+
 
 
 Unfortunatly the more I stayed in this job the more I realized I was not in sync with the way the program was applied.
-
-I thought it pushed the student to do a lot of stuff very quickly without letting them time or energy to try to master any of it. 

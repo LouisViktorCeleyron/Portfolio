@@ -6,35 +6,6 @@ I was pleased to see that my code wasn't so bad even if I could always improve. 
 
 I'm also not sure of which structure is the best to support the capture gameplay (adventure or rogue-like or something else). I like the scalability of the rogue like but I also like the mystery/easter-egg/search for the rare encounters of the adventure games. 
 
-## Goals 
-
-### Producing
-- Make a Moscow for the project
-- Put this devlog and the project on my website
-- Decide a clear objective/project end
-- Godot R&D
-
-### Design 
-- Decide between linear adventure or roguelike
-- If I decide start working on environement/Level/Biome etc....
-- Design secondary mechanics (How to use support ducks, XP, Shops etc....)
-- Document and design some duck abilities 
-- Design how combo affect capture rate
-- R&D design tools (Obsidian?)
-  
-### Code
-- Implement a singleton manager system
-- Make the capture mechanic work on more than one ducks
-- Make the duck attack system 
-- Make the duck support system 
-- Add Combo/Number of loop/etc...
-- Start working on the support gameplay loop (xp/Shop/etc...)
-### Art 
-- Try particles in godot
-- Try to do some mockup/rough background
-- Try to do some mockup/rough UI 
-- Low priority but it's always fun to design ducks
-
 
 ## Design 
 
@@ -93,7 +64,7 @@ These are my core ideas, I'm going to write other ideas bellow.
 
 The ducks can have more than one action to launch. For now they will be choose at random but I can see adding moveset rotation for boss or weight to each actions. Before launching an action the duck will stop its movement and launch a little feedback. 
 
-[Add attack gif]
+![Attack](Screenshots/Gifs/G_Attack.gif)
 
 By testing some projectile based attack I realised that my Ducks can only face left or right. I will have to find a solution to that : either I add an indication of where the projectile is going to spawn or I draw 4 direction for every Ducks but this fix seems a little time consuming. 
 
@@ -101,6 +72,32 @@ By testing some projectile based attack I realised that my Ducks can only face l
 ## Coding
 
 ### Manager system
+
+I Implemented a manager system I use in most of my project. The idea is to have **one** GameManager as a singleton accessible everywhere and everytime in the game. The **Globals feature** in Godot makes this insanely easy. This GameManager node has every SubManager used in the game as a child and every node can access them through it's **GetManager** Method. 
+
+```cs
+public partial class GameManager : Node
+{
+	private static GameManager _Instance;
+	private List<Manager> _managers;
+	
+	//I do my set up and verifications in the Ready method
+	public override void _Ready(){...}
+
+	public static T GetManager<T>() where T : Manager
+	{
+		foreach (var manager in _Instance._managers)
+		{
+			if (manager.GetType() == typeof(T))
+			{
+				return manager as T;
+			}
+		}
+		return default;
+	}
+}
+```
+>*GameManager Script*
 
 
 ### PlayerComponent System 
@@ -165,8 +162,7 @@ I also modified the line so that when a circle is formed the circle is erased an
 
 
 
-
-### Ducks actions
+### Ducks actions/attacks
 
 To code Ducks' actions I created a ressources *CapturableAction.cs*. Theses ressources have access to the capturable that launch the action and are managed by a *ActionLauncher.cs*. I didn't want to add this to the capturable script because it was already pretty heavy. 
 
@@ -176,21 +172,26 @@ Finally I added a component to damage the player if it's colliding with the atta
 
 ## Art
 
+I did not do a lot of art for this sprint but I did some UI stuffs. 
+
+![alt text](Screenshots/T_UI.png)
+
 ## Conclusion
+
+This sprint was tainted by the BIG heatwave happening where I'm living. So I did not as much stuffs as I wanted to do but I'm happy to progress. 
+
 
 ### TL;DR
 
 |Goal   | Description                |Done|
 |---|----------------|--|
-|  **Making the line**    | A Line 2D follow the mouse when the right click is pressed |✔️                         
-|  **Closing the circle**    | The line detect when it's making a circles |✔️
-|  **Detecting inside**    | I can detect what's indside the cirle, for now it only works for one duck|➖
-|  **Duck Behaviour**    | The duck can only move randomly on the screen|➖
-|  **Duck interraction**    | The duck can break your line but not attack|➖
-|  **Hierachy**    | What I did was functional but I can factorise more stuff (especialy around the duck behaviour)|➖
-|  **Art** | I started to dabble in pixel art |➖
+|  **Duck abilities**    | The abilities system is functional but I have only made one so far |✔️
+|  **Decide a clear project end**    | I've decided to made a linear/ biome oriented game|➖
+|  **Manager System**    | The Manager system is functional and can be extended|✔️
+|  **UI Art**    | Some UI art has been made|➖
+|  **Combo**    | I know where I should go with this system but it's not implemented yet|➖
 
-### Idea box /Next sprint to do 
+### Idea box /Next things to do 
 
 I noticed that the way I made movement last sprint wasn't ideal. I might change that to add a movable node or something like that to track velocity and flip sprite acordingly.
 
@@ -202,4 +203,5 @@ I had some  Ducks action idea:
 - Something like electric bar 
 
 ### What did I learned 
-- I deepend my undertanding of area 2D especially since GetOverlappingBody did not work
+- I deepend my undertanding of area 2D especially since GetOverlappingBody did not work.
+- Design wise I studied what I should implement in this kind of project. 
