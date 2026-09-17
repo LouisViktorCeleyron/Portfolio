@@ -111,17 +111,18 @@ public partial class RecoilBullet : BulletBody
 
 This way the system works no matter how many masks we wants to add in the game, I can create more masks and bullets without having to change anything in the main modules.  
 
-Here a tiny table of whitch mask does what:
-|Mask|Position|Effect|
-|---|---|---|
-|Bouncing|Bottom|The bullet bounce against the walls|
-|Heavy|Bottom|The bullet is VERY Slow but last longer
-|Recoil|Bottom|The player has some recoil when they shoots
-|Inverted|Top|The player has inverted Control
-|Size|Top|The player will change size when they move
-|ChangeShoot|Top| The player can't shoot and move at the same time
+Here a tiny table of which mask does what:
 
-The project was fun, working with godot is REALLY fun and I had the occasion to make a clear, stretchable and reusable code on this engine. 
+| Mask        | Position | Effect                                           |
+| ----------- | -------- | ------------------------------------------------ |
+| Bouncing    | Bottom   | The bullet bounce against the walls              |
+| Heavy       | Bottom   | The bullet is VERY Slow but last longer          |
+| Recoil      | Bottom   | The player has some recoil when they shoots      |
+| Inverted    | Top      | The player has inverted Control                  |
+| Size        | Top      | The player will change size when they move       |
+| ChangeShoot | Top      | The player can't shoot and move at the same time |
+
+The project was fun, working with Godot is REALLY fun and I had the occasion to make a clear, stretchable and reusable code on this engine. 
 
 ### Links
 [The game Repo](https://github.com/LouisViktorCeleyron/GGJ2026)   
@@ -133,22 +134,19 @@ The project was fun, working with godot is REALLY fun and I had the occasion to 
 >🚹 5 People    
 > Sport Game (2 players only)
 
-
 ### Concept
 ### What I did
 ### Links
 [The game Repo]()   
-[The game GGj Page]()   
-[The Game Itch.io Page]()
+[The game GGj Page](https://globalgamejam.org/games/2025/volley-bulle-7)   
+[The Game Itch.io Page](https://laoil.itch.io/volley-bulle)
 
 ## Cat-A-Strophe (2024)
 >👨‍💻 Unity - Mobile  
 >🚹 5 People    
 > Puzzle / Point'n'click
-
 ### Concept
 ### What I did
 ### Links
-[The game Repo]()   
-[The game GGj Page]()   
-[The Game Itch.io Page]()
+[The game Repo](https://github.com/LouisViktorCeleyron/GGJ2024)   
+[The game GGj Page](https://globalgamejam.org/games/2024/catastrophe-3)   
