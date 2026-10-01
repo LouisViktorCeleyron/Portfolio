@@ -1,4 +1,4 @@
-# Sprint 3 
+ # Sprint 3 
 
 I'm still dabbling with what I'm doing here but I think I might have goal oriented rahter than time oriented sprints. This way at the start of a sprint I know I'm going to focus on X Design task X Coding task etc...
 
@@ -55,9 +55,37 @@ With this I can precisely know how many loop is needed to capture a Duck and I c
 In one of my next sprints I'll try dabbling with capture rate when multiples ducks are circled by the same loop. 
 
 ![[PkmnGS_WobbuffetCapture.png]]
+
+I then had to think about my stats. What my starting capture rate is going to be ? What my final capture rate is going to be ? 
+
+I obviously can't decide that now without test and stuffs but I can decide of a magnitude for the game. I think I'm going to focus on making a working system then I'll take care of the metrics. 
+#TOBECONTINUED
 ### Support System 
 ## Producing
 ## Code
+
+### Combo and feedbacks
+
+To implement the combo system I simply put the formula from my design before sending the capture rate to the capturable. 
+
+```cs
+private void CapturableOnCircle(Capturable capturable)  
+{  
+    _loop++;  
+    var processedCaptureRate = _captureRate + (_loop/_loopCombo) * (int)(MathF.Round(_comboPercent * _captureRate));  
+    capturable.RiseCaptureRate(Math.Clamp(processedCaptureRate,0,_maxCaptureRate));  
+}
+```
+> Part of the *CaptureManager.cs* Script
+
+Because it was pretty simple and I wanted to spend a little extra time on this task I dabbled with **ParticleEffect** on Godot. I learned that if you use a **ViewportTexture** you can use a viewport content as a particle. So i did this! I created a label in a viewport and assigned this as a particle system. The particle system is enabled and the label is updated via signal when the capturable is looped. 
+
+![[G_Combo.gif]]
+
+### Debugging Tools
+
+- Binded to signal 
+- 
 ## Art
 ## R&D
 
@@ -73,5 +101,10 @@ I was intrigued by **Obsidian** for a while and I figured it was a good opportun
 - For the feedbacks of the combo I can change the colors every combo and add a new random color for example OR I can add a mathematical formula that create new random colors that tends to certain tones or contrasts.
 - As reward for curious player I can add line renderer skin. 
 - I thought about some negative status that could be inflicted by Ducks like lowering capture rate, increasing the number of loops needed for combos, make the pointer slower or line tiner for example.
-- 
+- Feedback displaying the combo (Number of loops)
+- Ducks have to lose some capture points if not captured for some times
+- Particles for a successful loop and a successful capture
 ### What did I learned 
+
+- Basic understanding of the Godot Particle system
+- You can put viewport in particles (think of the possibilities)
