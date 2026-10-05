@@ -16,25 +16,19 @@ For this sprint this is what I want to focus on :
 #### Design
 - Design the combo system
 - Design the support system
-  
 #### Producing 
 - Create a Moscow like doc for the project
-
 #### Code
 - Implement the combo system
-- Implement the support system
 - Create a design sheet
-
-
+- Implement the end of the capture session
 #### Art
 - Create a first batch of rough Background elements  
 - Draw at least 2 New ducks 
-  
 #### R&D
 - Look for how to do particles in Godot 
 - Look at other Dev Log to see if I can write stuff better
   
-
 ## Design 
 ### Combo System 
 
@@ -59,7 +53,24 @@ In one of my next sprints I'll try dabbling with capture rate when multiples duc
 I then had to think about my stats. What my starting capture rate is going to be ? What my final capture rate is going to be ? 
 
 I obviously can't decide that now without test and stuffs but I can decide of a magnitude for the game. I think I'm going to focus on making a working system then I'll take care of the metrics. 
-#TOBECONTINUED
+
+### First Stats Iteration
+
+With the help of my Debugging tool I have now the data to iterate on my first stats for the player and the ducks.
+
+![[Pasted image 20261004141755.png]]
+
+And I can work on my first Ducks ! 
+
+While working on the ducks I figured I needed a Unit for the "Health" of the ducks. The **Capture Rate** or ==CR== is the "damage" done by the player and the **Capture Unit** or ==CU== is the "health" of the Ducks.
+
+| ![[DL_Regular.png\|154]] | ![[DL_Buisness.png\|154]] | ![[DL_Wicked.png\|154]] |
+| ------------------------ | ------------------------- | ----------------------- |
+| Regular Duck             | Business Duck             | Wicked Duck             |
+| 40  CU                   | 60 CU                     | 80 CU                   |
+
+In the future I'll work on a system to have everything at hand so I can easily change it and do some tweaks.
+
 ### Support System 
 ## Producing
 ## Code
@@ -78,14 +89,52 @@ private void CapturableOnCircle(Capturable capturable)
 ```
 > Part of the *CaptureManager.cs* Script
 
-Because it was pretty simple and I wanted to spend a little extra time on this task I dabbled with **ParticleEffect** on Godot. I learned that if you use a **ViewportTexture** you can use a viewport content as a particle. So i did this! I created a label in a viewport and assigned this as a particle system. The particle system is enabled and the label is updated via signal when the capturable is looped. 
+Because it was pretty simple and I wanted to spend a little extra time on this task I dabbled with **ParticleEffect** on Godot. 
+I learned that if you use a **ViewportTexture** you can use a viewport content as a particle. So i did this! I created a label in a viewport and assigned this as a particle system. The particle system is enabled and the label is updated via signal when the capturable is looped. 
 
 ![[G_Combo.gif]]
 
 ### Debugging Tools
 
-- Binded to signal 
-- 
+I wanted to have some data on how long it takes to make a loop so I made a tiny debug tool to know my metrics. 
+
+```cs
+private double _timer;  
+private List<double> _loopTimer;  
+  
+private bool _timerStarted;  
+  
+public override void _Process(double delta)  
+{  
+    if (_timerStarted)  
+    {        _timer += delta;  
+    }}  
+  
+private void StartTimer()  
+{  
+    GD.Print("Capture Start");  
+    if (!_timerStarted)  
+    {        _timerStarted = true;  
+        _loopTimer = new List<double>();  
+        _timer = 0d;  
+    }}  
+  
+private void LoopTimer()  
+{  
+    var loopTime = (_loopTimer.Count > 0) ? _timer - _loopTimer.Last() : _timer;  
+    _loopTimer.Add(loopTime);  
+    GD.Print($"Loop n° {_loopTimer.Count} in {loopTime} s");  
+}  
+private void StopTimer()  
+{  
+    _timerStarted = false;  
+    GD.Print($"{_loopTimer.Count} loops in {_timer} s. Average of {_timer/_loopTimer.Count}");  
+}
+```
+> Script *DEBUG_LoopMetrics.cs*
+
+I bound theses functions to the capture and line signals and then I gathered some data. With it I can start prototyping my ducks. 
+
 ## Art
 ## R&D
 
@@ -104,6 +153,10 @@ I was intrigued by **Obsidian** for a while and I figured it was a good opportun
 - Feedback displaying the combo (Number of loops)
 - Ducks have to lose some capture points if not captured for some times
 - Particles for a successful loop and a successful capture
+- Centralize metrics to facilitate tweaking 
+### R&D Box
+- Godot Meta Data
+- Learn more about ducks
 ### What did I learned 
 
 - Basic understanding of the Godot Particle system
