@@ -62,12 +62,12 @@ With the help of my Debugging tool I have now the data to iterate on my first st
 
 And I can work on my first Ducks ! 
 
-While working on the ducks I figured I needed a Unit for the "Health" of the ducks. The **Capture Rate** or ==CR== is the "damage" done by the player and the **Capture Unit** or ==CU== is the "health" of the Ducks.
+While working on the ducks I figured I needed a Unit for the "Health" of the ducks. The **Capture Rate** or ==CR== is the "damage" done by the player and the **Capture Points** or ==CP== is the "health" of the Ducks.
 
 | ![[DL_Regular.png\|154]] | ![[DL_Buisness.png\|154]] | ![[DL_Wicked.png\|154]] |
 | ------------------------ | ------------------------- | ----------------------- |
 | Regular Duck             | Business Duck             | Wicked Duck             |
-| 40  CU                   | 60 CU                     | 80 CU                   |
+| 40  CP                   | 60 CP                     | 80 CP                   |
 
 In the future I'll work on a system to have everything at hand so I can easily change it and do some tweaks.
 
@@ -134,6 +134,29 @@ private void StopTimer()
 > Script *DEBUG_LoopMetrics.cs*
 
 I bound theses functions to the capture and line signals and then I gathered some data. With it I can start prototyping my ducks. 
+
+### Capture stuffs
+
+#### Reducing capture over time
+I added a timer to the capturable to reduce it's **CP** every x milliseconds. 
+Unlike the combo mechanic I could not find any metrics from the pokémon games on this mechanic. 
+
+Anyway to do this I created a new method for the capturable script :
+```cs 
+public void ReduceCaptureRateByPercent(float percent)  
+{  
+    var amount = Mathf.CeilToInt(_maxCaptureRate * (percent/100f));  
+    ChangeCaptureRate(_captureRate-amount);  
+}
+```
+> *Capturable.cs*
+
+And I put some timer to 
+#### Capture complete
+I realized that I did not have something that trigger when the capture is complete. So I created a **Captured** Signal and bound some stuff to it : 
+
+- I stop the movement, action launcher and the CP reduction over time.
+- I dabbled with particles to have some feedbacks when the captured is complete.
 
 ## Art
 ## R&D
