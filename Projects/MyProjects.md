@@ -1,4 +1,12 @@
-# My Projects
+---
+layout: articles
+title: Projects 
+permalink: /projects
+key: projects
+
+sidebar:
+  nav: projects
+---
 
 Here, you can find informations about my projects and what did I do on them! 
 

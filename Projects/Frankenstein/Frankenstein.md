@@ -1,5 +1,12 @@
-# The Wanderer: Frankenstein's Creature
+---
+layout: article
+title: The Wanderer - Frankenstein's Creature
+permalink: /projects/wanderer
+key: projects-wanderer
 
+sidebar:
+  nav: projects
+---
 >La Belle Games - Montreuil  
 >Internship - 2019 - 2 Months  
 >Unity 3D - C#/PlayMaker  

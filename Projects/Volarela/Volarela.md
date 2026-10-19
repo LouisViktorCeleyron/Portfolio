@@ -1,4 +1,13 @@
-# Volarela
+---
+layout: article
+title: Volarela
+permalink: /projects/volarela
+key: projects-volarela
+
+sidebar:
+  nav: projects
+---
+
 > CrossQuest Studio - Valenciennes    
 > Freelance mission - 2020 - 2 months mission  
 > Unity - C#  

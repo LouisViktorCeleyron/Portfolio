@@ -1,4 +1,12 @@
-# Intro
+---
+layout: article
+title: Intro
+permalink: /projects/intro
+key: projects-intro
+
+sidebar:
+  nav: projects
+---
 
 
 >🚹 Personal Project    

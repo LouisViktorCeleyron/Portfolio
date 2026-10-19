@@ -1,4 +1,12 @@
-# Jams
+---
+layout: article
+title: Game Jams
+permalink: /projects/jams
+key: projects-jams
+
+sidebar:
+  nav: projects
+---
 
 I'm really fond of Game Jams, both as an organizer and a participant. As a students, between 2015-2020 I was a member of the student association of my school and I was in charge of organizing 2-3 jams a year. 
 

@@ -1,5 +1,12 @@
-# Teaching Game Programming 
+---
+layout: article
+title: Teaching Game Dev
+permalink: /projects/teaching
+key: projects-teaching
 
+sidebar:
+  nav: projects
+---
 
 With this job I had to review, work on and supervise a lot of students projects. This allow me to 
 

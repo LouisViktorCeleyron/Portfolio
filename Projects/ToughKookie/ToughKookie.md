@@ -1,4 +1,13 @@
-# Tough Kookie
+---
+layout: article
+title: Tough Kookie
+permalink: /projects/tk
+key: projects-tk
+
+sidebar:
+  nav: projects
+---
+
 > Rubika - Valenciennes  
 > Student Project - 2019-2020 - 1 year and 6 months  
 > Unreal Engine 4 - C++/Blue Print  

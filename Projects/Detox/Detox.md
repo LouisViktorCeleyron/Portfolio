@@ -1,3 +1,12 @@
+---
+layout: article
+title: Detox
+permalink: /projects/Detox
+key: projects-detox
+
+sidebar:
+  nav: projects
+---
 # Detox
 
 > La Belle Games - Montreuil  

@@ -1,0 +1,30 @@
+.article__content {
+  code.success {
+    color: $text-color-function;
+    background-color: $green;
+  }
+  
+  code.prout {
+    color: $text-color-function;
+    background-color: $google-plus-color;
+  }
+
+  .highlight{
+    color: $yellow;
+  }
+
+  code.info {
+    color: $text-color-function;
+    background-color: $blue;
+  }
+
+  code.warning {
+    color: $text-color-function;
+    background-color: $yellow;
+  }
+
+  code.error {
+    color: $text-color-function;
+    background-color: $red;
+  }
+}

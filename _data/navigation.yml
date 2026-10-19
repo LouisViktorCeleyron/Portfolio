@@ -1,0 +1,30 @@
+header:
+  - title: About Me
+    url: /guide/intro
+  - title: Projects
+    url: /projects
+  - title: Skills
+    url: /skills
+  
+
+
+projects:
+  - title: Projects
+    url: /projects
+    children:
+      - title: Intro
+        url: /projects/intro
+      - title: Game Jams
+        url: /projects/jams
+      - title: Teaching Game Dev
+        url: /projects/Teaching
+      - title: Melobot - A last Song
+        url: /projects/melobot
+      - title: The Wanderer - Frankenstein's creature
+        url: /projects/wanderer
+      - title: Volarela
+        url: /projects/volarela
+      - title: Tough Kookie
+        url: /projects/tk
+      - title: Detox
+        url: /projects/detox

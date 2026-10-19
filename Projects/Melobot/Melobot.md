@@ -1,4 +1,12 @@
-# Melobot A last song
+---
+layout: article
+title: Melobot - A Last Song
+permalink: /projects/melobot
+key: projects-melobot
+
+sidebar:
+  nav: projects
+---
 > Anomalie Studio - Remote
 > Freelance mission - 2020-2021 - 5 months mission  
 > Unity - C#  

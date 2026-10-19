@@ -1,1 +1,5 @@
-.obsidian/
+_site
+.sass-cache
+.jekyll-metadata
+/vendor
+/.obsidian
