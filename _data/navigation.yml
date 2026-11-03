@@ -8,6 +8,18 @@ header:
   
 
 
+
+skills:
+  - title: Skills
+    url: /skills
+    children:
+      - title: General Skills
+        url: /skills/general
+      - title: Unity 
+        url: /skills/unity
+      - title: Unreal 
+        url: /skills/ue
+
 projects:
   - title: Projects
     url: /projects

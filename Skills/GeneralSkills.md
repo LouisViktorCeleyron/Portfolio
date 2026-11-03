@@ -1,11 +1,16 @@
-# My General Skills
+---
+layout: article
+title: My General Skills
+permalink: /skills/general
+key: skills-general
+
+sidebar:
+  nav: skills
+---
 
 I have a master’s degree in Video Games Programming and Game Design. I’m defining myself as a creative programmer but for more precision there is a little list of what I can do and my fields of specialization!   
 
-![Banner](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/Banners/GeneralBanner.png)
-
-
-***
+![Banner](/Documents/Pictures/Banners/GeneralBanner.png)
 
 ## Programming Skills 
 ### **Tool Design** 
@@ -15,7 +20,7 @@ I’m really curious about this and each time I discover a new software (even wh
 
 I like to extend software but I’m enjoying the conception of **external tools** too. I’m always enjoying the creation of a Level or Character Editor which can be put in the game later to allow player to create their own content. Most of my external tool returns a string/Json/Xml/anything serialized which can be put in the engine to make something cool.  
 
-[My level editor in Detox is an example of external tool](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Detox.md#what-i-did)
+[My level editor in Detox is an example of external tool](/Projects/Detox#what-i-did)
 
 
 ### **Creativity**
@@ -47,7 +52,6 @@ I'm used to program for **Mobile and PC** but I'm not against trying other platf
 ### **Mathematics skills**
 I had the opportunity to exercise my mathematics skills on my different projects. I have algebra and 3D math skills, I’m familiar with the utilization of mathematic function and I’m used to 2D and 3D vector.
 
-***
 
 ## Languages 
 ### **C#**
@@ -61,15 +65,11 @@ C++ is a deep language with a lot of particularities, but I’m enjoying each st
 I practised these languages long time ago, and I’m practicing them when I have the time but way less often than C# and C++. I did some **Ruby, JavaScripts and Python.**  
 
 
-***
-
 ## Game Design
 I studied Game design during my firsts 3 years at Rubika. This experience gave me a **good capacity of analysis** and helps me to pull out the best of what I’m seeing, listening, or playing. I have a **creative mind** which is pushing me to think outside the box and to always being innovative and thinking of new ways of doing stuffs.  
 My game design skills combined with my programming skills allow me **to prototype my ideas** and to test them to see what is right and what is wrong. One of the aspects of Game Design that interest me the most is the **UX** and I am putting what I learnt in my tools or in my prototypes!  
 When I studied Game Design, I learnt how to make efficient research and documentation and I apply this however the field I’m currently working on.  
 My Game Designs Skills allows me to do **creative programming** and to always try to get out of my comfort zone.
-
-***
 
 ## Other Softwares  
 I’m curious, and I try to stay updated about **new or indie software and technology** that can interest me and I’m taking time to test them!  
@@ -91,7 +91,6 @@ I like too to discover new indie software like Aesprite, Spritestack, etc…
 I’m used to work in teams, so I can use Organization and management software as Trello Jira, or confluence. 
 I’m a big fan of the google suite, especially google sheets, to share documentation and planning for example.
   
-***
 
 ## Soft Skills 
 ### **Communication**
@@ -107,7 +106,3 @@ I worked as a teacher for 5ish years. I'm very used to simplify notions. I like 
 ### **Learning**
 I cannot get tired of **learning new stuffs**: softs, technology, techniques, etc… I learn fast: I’m resourceful, curious, and I’m always in the quest of understanding the tools I’m using.  
 I’m not afraid of doing experiment and trying again and again until I understand and master things!  
-
-
-
-

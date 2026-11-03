@@ -1,4 +1,12 @@
-# My Skills on Unity 3D
+---
+layout: article
+title: My Skills on Unity 3D
+permalink: /skills/unity
+key: skills-unity
+
+sidebar:
+  nav: skills
+---
 
 I have started using Unity in **2016**, and I use it for a large part of my scholarship at Rubika. I Love to discover new features on the soft, and if I need a feature which does not exist, I code it myself!  
 I used Unity for a lot of various projects, tests and prototypes. I am used to **2D and 3D games** and I did work for different platforms **PC, AR, and Android**.  
@@ -8,7 +16,6 @@ Unity is a fun engine I love using and learning. It gave me the love of the prog
 
 ![Banner](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/Banners/UnityBanner.png)
 
-***
 
 ## Tool Design in Unity
 The tool design in Unity is my favourite side of the software. I did a lot of researches and experimentations about it. I like to make **big pipeline tools with everything linked** as well as **little tool that make me more comfortable**.  
@@ -203,8 +210,6 @@ public class StartElementEditor : NodeEditor
 ```
 ![Attribute Property](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/AttributeProperty.png)  
 
-***
-
 ## UI Programming
 I very familiar with the way the UI system of unity and all tools provided by it work. I also **extend it**, to add events when the player hovers a button, or by creating a new behaviour from the event system, for example. I can make a **responsive UI** adapted for all size of the screen.  
 I did a lot of menus and HUD and I know how to add theses at the gameplay part. 
@@ -215,18 +220,15 @@ I did a lot of menus and HUD and I know how to add theses at the gameplay part.
 **Example of an Extention of the Unity UI System I code to launch event when the button is overlapped**  
 ![Button but Better](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/UI_001.png)  
 
-***
-
 ## Animator
 I use the animator for multiples purposes.   
 I can create and set up an animator for a project. I’m used to transitions, sub-state machines and blend tree. Furthermore, I can integrate animations to a project with C# and making tools to ease it.  
 I am used to State Machine Behaviour’s workflow and I can program scripts to add behaviour to animation or to use the animator as a State Machine.  
 I Learn, with my internship at La Belle Games (on Detox and Frankenstein), how to uses theses skills on a professional project. 
 
-[On Detox I used the Animator to create a State machine to always know in which position is the character]()
-[The Detox State Machine](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Gifs/StateMachine.gif)
+[On Detox I used the Animator to create a State machine to always know in which position is the character](/Projects/Detox)  
+![The Detox State Machine](https://louisviktorceleyron.github.io/Portfolio/Projects/Detox/Pictures/StateMachine.png)
 
-***
 
 ## Shader 2D
 I learn how to use the **HLSL Shading language** with Unity, but I mainly used it on 2D texture. I used it for in-game UI and indications. I have the ability to match it with a C# script to have a dynamic shader with effect easily tweakable.

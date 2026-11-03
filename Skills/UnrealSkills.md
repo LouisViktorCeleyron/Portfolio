@@ -1,4 +1,13 @@
-# My Skills on Unreal Engine 4
+---
+layout: article
+title: My Skills on Unreal Engine 4
+permalink: /skills/ue
+key: skills-ue
+
+sidebar:
+  nav: skills
+---
+
 
 I have started using Unreal Engine 4 in **2017**, when I was in 3rd year at Rubika, and I used it for a lot of long projects during my scholarship since.
 I discovered a lot of interesting features and workflow on the software and I took the time to analyze and understand them.  
@@ -7,7 +16,6 @@ Unreal Engine 4 was a little hard to understand at first but now I had a lot of 
 
 ![Banner](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/Banners/UnrealBanner.png)
 
-***
 
 ## How to work with the Unreal Engine workflow
 I had a lot of lessons (especially during my 4th years) about Unreal Engine and its workflow. So, I have a **global understanding of the software** and of the **good practices** to have when you use it.  
@@ -15,13 +23,9 @@ I know how to name and sort my files on the project architecture, and where I mu
 I had the occasion to experiment on a lot of the software features as the Data tables, String table, Data Assets, the sequencer, behaviour tree etc…
 And as you will see bellow of course I have a lot of experience with some the features and assets of the soft.   
 
-***
-
 ## Blueprints 
 With 3 years of experiences with Unreal Engine 4, I had the time to experiment a lot with the blueprints.  
 I know how to create a **dynamic and flexible code** using features likes components, Interfaces, or the parenting system for example.  
-
-***
 
 ## C++ in Unreal Engine  
 At the end of 2019, I’ve started learning how to use C++ in Unreal Engine 4. As for today, I have the knowledge to create a **full project in C++** with the software, by creating Actors, Component, Game instance, etc…   
@@ -42,7 +46,6 @@ void UTKCPPLibrary::AttatchActorToPawn(AActor* actorTarget, APawn* pawnTarget)
 **And it's result in the Editor**  
 ![Attribute Property](https://louisviktorceleyron.github.io/Portfolio/Documents/Pictures/OtherExamples/BP_Example.png)  
 
-***
 
 ## Tool Design in Unreal Engine 4 
 I use a lot of Unreal Engine 4 features to set up a smooth work environment adapted to the project the team is working on and improves the efficiency of everybody.  
@@ -62,12 +65,9 @@ I can use the **Bluetility system** to establishes an easier way to work; for ex
 I also set up preset of actors to allow designers and people who knows just the basics of blueprint to test features or implement easily new ideas.
 I can too, create **macro and function library** to simplify blueprint utilization and factorize methods or code portion we might use a lot to avoid copy/past.  
 
-***
-
 ## UI Workflow
 For my graduation project Tough Kookie, I did some **retro engineering** about UI in Unreal Engine to create an UI Workflow adapted to the project. From this experience I learn how work the **UI workflow of Unreal** and I now can use it and/or modify it for a project.  
 
-***
 
 ## Others Workflow
 
